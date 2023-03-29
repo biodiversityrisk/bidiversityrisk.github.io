@@ -5,3 +5,5 @@ permalink: /news/
 ---
 
  {% include figure.html %}
+
+ {% include News.html %}
