@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Downloadable Data
+title: Download Data
 permalink: /download/
 ---
 
