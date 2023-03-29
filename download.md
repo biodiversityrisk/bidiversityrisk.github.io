@@ -17,13 +17,13 @@ permalink: /download/
 
 ## 2. Biodiversity Risk Exposure<br>
 
-+  Annually 10k-Biodiversity-Count Score<br>
++  Annual firm-level 10k-Biodiversity-Count Score<br>
 <a href="/data/10k_biodiversity_count_score.dta" target="_blank"><strong>Download (2001-2022):</strong> 10k_biodiversity_count_score.dta</a><br><br>
 
-+  Annually 10k-Biodiversity-Negative Score<br>
++  Annual firm-level 10k-Biodiversity-Negative Score<br>
 <a href="/data/10k_biodiversity_negative_score.dta" target="_blank"><strong>Download (2001-2022):</strong> 10k_biodiversity_negative_score.dta</a><br><br>
 
-+  Annually 10k-Biodiversity-Regulation Score<br>
++  Annual firm-level 10k-Biodiversity-Regulation Score<br>
 <a href="/data/10k_biodiversity_regulation_score.dta" target="_blank"><strong>Download (2001-2022):</strong> 10k_biodiversity_regulation_score.dta</a><br><br>
 
 +  Survey-Based Biodiversity Score<br>
