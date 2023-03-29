@@ -11,9 +11,10 @@ layout: default
  <center> <h1>Authors</h1> </center>
  <center>
 <table border="0">
-   <colgroup>
-    <col span="4">
-  </colgroup>
+<colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+<colgroup>
  <tr>
     <td><center> <h2><a href="https://sites.google.com/view/stefanogiglio/" target="_blank">Stefano Giglio</a></h2><p>Yale SOM, NBER, and CEPR</p></center></td>
     <td><center> <h2><a href="https://pages.stern.nyu.edu/~tkuchler/index.html?_ga=2.145858871.2063155863.1679936500-1368839477.1659464395" target="_blank">Theresa Kuchler</a></h2><p>NYU Stern, NBER, and CEPR</p></center></td>
@@ -29,7 +30,6 @@ layout: default
 <br/>
 <br/>
 <div> <strong>Reference:</strong> Giglio, Stefano and Kuchler, Theresa and Stroebel, Johannes and Zeng, Xuran, Biodiversity Risk (April 1, 2023). Available at <a target="_blank" href="https://pages.stern.nyu.edu/~jstroebe/">NBER</a></div>
-<br/>
 <br/>
 <br/>
 
