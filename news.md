@@ -4,6 +4,8 @@ title: Biodiversity and Climate News
 permalink: /news/
 ---
 
- {% include figure.html %}
+ {% include nyt_bio.html %}
 
- {% include News.html %}
+ {% include google.html %}
+
+ {% include nyt_climate.html %}
