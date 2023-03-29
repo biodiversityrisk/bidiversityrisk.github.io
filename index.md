@@ -8,6 +8,17 @@ layout: default
 
  <center> <h1>Authors</h1> </center>
 
+
+    <div style="width: 100%;">
+        <div style="width: 50%; height: 100px; float: left;"> 
+             <center> <h2><a href="https://sites.google.com/view/stefanogiglio/" target="_blank">Stefano Giglio</a></h2><p>Yale SOM, NBER, and CEPR</p></center>
+        </div>
+        <div style="margin-left: 50%; height: 100px; "> 
+            <center> <h2><a href="https://pages.stern.nyu.edu/~tkuchler/index.html?_ga=2.145858871.2063155863.1679936500-1368839477.1659464395" target="_blank">Theresa Kuchler</a></h2><p>NYU Stern, NBER, and CEPR</p></center>
+        </div>
+
+
+
  <center> <h2><a href="https://sites.google.com/view/stefanogiglio/" target="_blank">Stefano Giglio</a></h2><p>Yale SOM, NBER, and CEPR</p></center>
  <center> <h2><a href="https://pages.stern.nyu.edu/~tkuchler/index.html?_ga=2.145858871.2063155863.1679936500-1368839477.1659464395" target="_blank">Theresa Kuchler</a></h2><p>NYU Stern, NBER, and CEPR</p></center>
  <center> <h2><a href="https://pages.stern.nyu.edu/~jstroebe/" target="_blank">Johannes Stroebel</a></h2><p>NYU Stern, NBER, and CEPR</p></center>
