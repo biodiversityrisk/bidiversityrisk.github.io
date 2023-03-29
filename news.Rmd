@@ -1,1 +1,1 @@
-xxx
+permalink: /news/
