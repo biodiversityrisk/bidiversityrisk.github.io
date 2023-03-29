@@ -12,7 +12,7 @@ layout: default
  <center>
 <table border="0">
    <colgroup>
-    <col span="2">
+    <col span="4">
   </colgroup>
  <tr>
     <td><center> <h2><a href="https://sites.google.com/view/stefanogiglio/" target="_blank">Stefano Giglio</a></h2><p>Yale SOM, NBER, and CEPR</p></center></td>
