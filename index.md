@@ -8,6 +8,12 @@ layout: default
 
  <center> <h1>Authors</h1> </center>
 
+<table border="0">
+ <tr>
+    <td><center> <h2><a href="https://sites.google.com/view/stefanogiglio/" target="_blank">Stefano Giglio</a></h2><p>Yale SOM, NBER, and CEPR</p></center></td>
+    <td><center> <h2><a href="https://pages.stern.nyu.edu/~tkuchler/index.html?_ga=2.145858871.2063155863.1679936500-1368839477.1659464395" target="_blank">Theresa Kuchler</a></h2><p>NYU Stern, NBER, and CEPR</p></center></td>
+ </tr>
+</table>
 
 
 
