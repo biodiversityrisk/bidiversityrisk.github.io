@@ -15,8 +15,7 @@ layout: default
  </tr>
 </table>
  </center>
-
- <center> <h1>Authors</h1> </center>
+<\br>
  <center>
 <table border="0">
  <tr>
