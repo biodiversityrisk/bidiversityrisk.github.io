@@ -28,7 +28,7 @@ layout: default
 <br/>
 <br/>
 <p align="justify">
- <strong>Reference:</strong> Giglio, Stefano and Kuchler, Theresa and Stroebel, Johannes and Zeng, Xuran, Biodiversity Risk (April 1, 2023). Available at <a target="_blank" href="https://pages.stern.nyu.edu/~jstroebe/">NBER</a>
+ <strong>Reference:</strong> Giglio, Stefano and Kuchler, Theresa and Stroebel, Johannes and Zeng, Xuran, Biodiversity Risk (April, 2023). Available at <a target="_blank" href="https://pages.stern.nyu.edu/~jstroebe/">NBER</a>
 </p>
 <br/>
 <br/>
