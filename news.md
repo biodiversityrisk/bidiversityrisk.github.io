@@ -8,7 +8,6 @@ permalink: /news/
 Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag the axis to pan along one axis.
 </h5>
  
- <br>
  </br>
   
  {% include nyt_bio.html %}
