@@ -6,10 +6,10 @@ permalink: /news/
 
 <h5>
 Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag the axis to pan along month.
-<\h5>
+</h5>
  
  <br>
- <\br>
+ </br>
   
  {% include nyt_bio.html %}
 
