@@ -19,7 +19,7 @@ layout: default
  </tr>
  <tr>
     <td><center> <h2><a href="https://pages.stern.nyu.edu/~jstroebe/" target="_blank">Johannes Stroebel</a></h2><p>NYU Stern, NBER, and CEPR</p></center></td>
-    <td> <center> <h2><a href="mailto:xz4183@nyu.edu" target="_blank">Xuran Zeng</h2><p>NYU Stern</p></center></td>
+    <td> <center> <h2>Xuran Zeng</h2><p>NYU Stern</p></center></td>
  </tr>
 </table>
  </center>
