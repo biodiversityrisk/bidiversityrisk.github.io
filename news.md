@@ -5,7 +5,7 @@ permalink: /news/
 ---
 
 <h5>
-Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag the axis to pan along month.
+Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag the axis to pan along one axis.
 </h5>
  
  <br>
