@@ -156,23 +156,24 @@
     }
 }
 
-@media ($on-laptop) {
+.desktop-only {
+  display: block;
+}
+
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 767px) {
   .desktop-only {
-    display: block;
-  }
-  .mobile-only {
     display: none;
+  }
+
+  .mobile-only {
+    display: block;
   }
 }
 
-@media ($on-palm) {
-  .desktop-only {
-    display: none;
-  }
-  .mobile-only {
-    display: block;
-  }
-}
 
 /**
  * Page content
