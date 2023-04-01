@@ -156,13 +156,37 @@
     }
 }
 
+@media (min-width: 768px) {
+  .desktop-only {
+    display: block;
+  }
+  .mobile-only {
+    display: none;
+  }
+}
 
+@media (max-width: 767px) {
+  .desktop-only {
+    display: none;
+  }
+  .mobile-only {
+    display: block;
+  }
+}
 
 /**
  * Page content
  */
 .page-content {
     padding: $spacing-unit 0;
+}
+
+.desktop-only {
+  display: none;
+}
+
+.mobile-only {
+  display: block;
 }
 
 .page-heading {
