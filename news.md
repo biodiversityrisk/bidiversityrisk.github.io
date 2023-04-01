@@ -11,16 +11,10 @@ Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag 
 
 
 <div class="desktop-only">
-  This content is only visible on desktop.
+  {% include aggregate.html %}
  
 </div>
 
-
-
-<div style="display: block;">
-  <!-- This content will always be displayed -->
-  {% include aggregate.html %}
-</div>
 
 <div style="display: none;">
   <!-- This content will be hidden by default -->
