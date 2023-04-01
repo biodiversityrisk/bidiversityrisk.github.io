@@ -18,5 +18,5 @@ Interact with the plot by clicking and dragging to zoom in, double-clicking to z
 <h5>
 For the best experience with our interactive figure, we recommend viewing this website on a desktop computer.
 </h5>
-    <img src="images/aggregate.png">
+    <img src="image/aggregate.png">
 </div>
