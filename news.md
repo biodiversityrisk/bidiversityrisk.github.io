@@ -9,14 +9,14 @@ permalink: /news/
 
 <div class="desktop-only">
 <h5>
-Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag the axis to pan along one axis. Double click on the legend to select a series. Single click on the legend to add series for comparison
+Interact with the plot by clicking and dragging to zoom in, double-clicking to zoom out, and clicking and dragging the axis to pan along one axis. You can select a series by double-clicking on the legend, and add series for comparison by single-clicking on the legend.
 </h5>
     {% include aggregate.html media="print" %}
 </div>
 
-<div class="desktop-only">
+<div class="mobile-only">
 <h5>
 For the best experience with our interactive figure, we recommend viewing this website on a desktop computer.
 </h5>
-    {% include aggregate.pdf media="screen" %}
+    <img src="images/aggregate.png">
 </div>
