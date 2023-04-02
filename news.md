@@ -12,16 +12,25 @@ Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag 
 
   {% include aggregate.html %}
  
- ## Desktop Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<!-- Content for desktop devices -->
+<h2 style="display:block;">Desktop Content</h2>
+<p style="display:block;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
 <!-- Content for mobile devices -->
-## Mobile Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<h2 style="display:none;">Mobile Content</h2>
+<p style="display:none;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
 <!-- Only display mobile content on screens smaller than 600 pixels -->
-@media only screen and (max-width: 600px) {
-    ## Desktop Content { display: none; }
-}
+<div id="mobile-content" style="display:none;">
+  <h2>Mobile Content</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</div>
+
+<script>
+  if (window.innerWidth < 600) {
+    document.getElementById("mobile-content").style.display = "block";
+    document.querySelectorAll("[style*='display:block;']").forEach(function(el) {
+      el.style.display = "none";
+    });
+  }
+</script>
