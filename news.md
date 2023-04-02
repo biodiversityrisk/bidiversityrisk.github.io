@@ -32,6 +32,6 @@ permalink: /news/
 
 <!-- Content for mobile devices -->
 <div class="mobile">
-	<h2>Mobile Content</h2>
+	<h5>For the best experience with our interactive figures, we recommend accessing our website using a desktop computer.</h5>
 	<img src="aggregate.png" alt="Alt text">
 </div>
