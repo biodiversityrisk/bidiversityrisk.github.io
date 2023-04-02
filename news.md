@@ -33,5 +33,5 @@ permalink: /news/
 <!-- Content for mobile devices -->
 <div class="mobile">
 	<h2>Mobile Content</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+	<img src="aggregate.png" alt="Alt text">
 </div>
