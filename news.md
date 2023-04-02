@@ -12,23 +12,28 @@ Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag 
 
   {% include aggregate.html %}
  
-<!-- Content for desktop devices -->
-.desktop {
+<div class="desktop">
+	<h2>Desktop Content</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</div>
+
+<!-- Content for mobile devices -->
+<div class="mobile">
+	<h2>Mobile Content</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</div>
+
+<!-- Styles for desktop and mobile devices -->
+<style>
+	.desktop {
+		display: block;
+	}
+	@media only screen and (max-width: 600px) {
+		.mobile {
 			display: block;
 		}
-		/* Styles for mobile devices */
-		@media only screen and (max-width: 600px) {
-			.mobile {
-				display: block;
-			}
-			.desktop {
-				display: none;
-			}
+		.desktop {
+			display: none;
 		}
-    
-    <div class="desktop">
-		  {% include aggregate.html %}
-	</div>
-	<div class="mobile">
-		<p>hh</p>
-	</div>
+	}
+</style>
