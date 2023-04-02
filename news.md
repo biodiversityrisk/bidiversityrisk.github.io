@@ -10,25 +10,5 @@ Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag 
 
 
 
-<div class="desktop-only">
   {% include aggregate.html %}
  
-</div>
-
-
-<div style="display: none;">
-  <!-- This content will be hidden by default -->
-  This content is only visible on mobile.
-</div>
-
-<!-- Apply the following styles to show or hide content based on screen size -->
-<style>
-  @media (max-width: 767px) {
-    div[style="display: block;"] {
-      display: none;
-    }
-    div[style="display: none;"] {
-      display: block;
-    }
-  }
-</style>
