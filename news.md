@@ -14,7 +14,7 @@ Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag 
  
 <div class="desktop">
 	<h2>Desktop Content</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+	 {% include aggregate.html %}
 </div>
 
 <!-- Content for mobile devices -->
@@ -28,7 +28,7 @@ Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag 
 	.desktop {
 		display: block;
 	}
-	@media only screen and (max-width: 600px) {
+	@media only screen and (max-width: 800px) {
 		.mobile {
 			display: block;
 		}
