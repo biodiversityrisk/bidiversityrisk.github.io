@@ -33,5 +33,5 @@ permalink: /news/
 <!-- Content for mobile devices -->
 <div class="mobile">
 	<h5>For the best experience with our interactive figures, we recommend accessing our website using a desktop computer.</h5>
-	<img src="image/aggregate.png" alt="Alt text">
+	<img style="width=209px;height=375px;float:left;padding:15px;" src="/images/aggregate.png" alt="">
 </div>
