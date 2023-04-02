@@ -12,3 +12,16 @@ Click and drag on the plot to zoom-in. Double-click to zoom-out. Click and drag 
 
   {% include aggregate.html %}
  
+ ## Desktop Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+<!-- Content for mobile devices -->
+## Mobile Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+<!-- Only display mobile content on screens smaller than 600 pixels -->
+@media only screen and (max-width: 600px) {
+    ## Desktop Content { display: none; }
+}
