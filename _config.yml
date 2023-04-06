@@ -4,6 +4,7 @@ email:
 description: This website provides biodiversity news and exposures metrics.
 url:  
 googlescholar:  
+google_analytics: G-6X7220W7CL
 orcid:  
 github_username:   
 permalink: /blog/:year/:month/:title.html
