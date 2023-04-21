@@ -38,14 +38,14 @@ permalink: /download/
 <a href="/data/10k_biodiversity_regulation_score.csv" target="_blank"><strong>Download (2001-2020):</strong> 10k_biodiversity_regulation_score.csv</a><br><br>
 -->
 
-+  Annual firm-level 10k-Based Biodiversity Score<br>
++  Annual firm-level 10k-Based Biodiversity Scores<br>
 <a href="/data/10k_biodiversity_scores.dta" target="_blank"><strong>Download (2001-2020):</strong> 10k_biodiversity_scores.dta</a><br>
 <a href="/data/10k_biodiversity_scores.csv" target="_blank"><strong>Download (2001-2020):</strong> 10k_biodiversity_scores.csv</a><br><br>
 
-+  Survey-Based Biodiversity Score<br>
++  Survey-Based Biodiversity Scores<br>
 <a href="/data/survey_biodiversity_scores.dta" target="_blank"><strong>Download (2023):</strong> survey_biodiversity_scores.dta</a><br>
 <a href="/data/survey_biodiversity_scores.csv" target="_blank"><strong>Download (2023):</strong> survey_biodiversity_scores.csv</a><br><br>
 
-+  Holding-Based Biodiversity Score<br>
++  Holding-Based Biodiversity Scores<br>
 <a href="/data/holding_biodiversity_scores.dta" target="_blank"><strong>Download (2023):</strong> holding_biodiversity_scores.dta</a><br>
 <a href="/data/holding_biodiversity_scores.csv" target="_blank"><strong>Download (2023):</strong> holding_biodiversity_scores.csv</a><br><br>
