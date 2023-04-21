@@ -34,14 +34,6 @@ layout: default
 <br/>
 <br/>
 
-<br/>
-<br/>
-<p align="justify">
-We thank Robert Capellini, Zhenhao Tan, Yili Tang, and Brian Reis for their help with this project. We thank Zhenhao Tan and Yihao Zhao for their helpful comments. We are also grateful for funding from the Volatility and Risk Institute at NYU Stern. We thank the Alumni Offices at NYU Stern and Yale SOM, as well as the VRI at NYU Stern for helping us recruit survey participants, as well as numerous individuals for their participation in our survey.
- </p>
-<br/>
-<br/>
-
 <!-- 
 <p align="justify">
  <strong>Survey:</strong> We run a survey to explore perceptions of biodiversity risk among academics and professionals and we will publish the industry-level biodiversity risk exposure once a year. Please <a target="_blank" href="https://nyu.qualtrics.com/jfe/form/SV_8cXhgEcbm8bP54i?Q_DL=Vib1IkknPX3J2ou_8cXhgEcbm8bP54i_CGC_Jfp4KqjBevCJbGd&Q_CHL=email"> take a moment </a> to participate.
