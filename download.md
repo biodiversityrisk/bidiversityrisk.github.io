@@ -4,6 +4,8 @@ title: Download Data
 permalink: /download/
 ---
 
+<a href="/data/Biodiversity Data Codebook.pdf" target="_blank"><strong>Download:</strong> Biodiversity Data Codebook.pdf</a><br>
+
 ## 1. Aggregate Risks<br>
 <!--
 +  Daily NYT Biodiversity Risk Index<br>
