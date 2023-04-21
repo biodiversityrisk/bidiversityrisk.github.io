@@ -42,10 +42,10 @@ permalink: /download/
 <a href="/data/10k_biodiversity_scores.dta" target="_blank"><strong>Download (2001-2020):</strong> 10k_biodiversity_scores.dta</a><br>
 <a href="/data/10k_biodiversity_scores.csv" target="_blank"><strong>Download (2001-2020):</strong> 10k_biodiversity_scores.csv</a><br><br>
 
-+  Survey-Based Biodiversity Scores<br>
++  Industry-level Survey-Based Biodiversity Scores<br>
 <a href="/data/survey_biodiversity_scores.dta" target="_blank"><strong>Download (2023):</strong> survey_biodiversity_scores.dta</a><br>
 <a href="/data/survey_biodiversity_scores.csv" target="_blank"><strong>Download (2023):</strong> survey_biodiversity_scores.csv</a><br><br>
 
-+  Holding-Based Biodiversity Scores<br>
++  Industry-level Holding-Based Biodiversity Scores<br>
 <a href="/data/holding_biodiversity_scores.dta" target="_blank"><strong>Download (2023):</strong> holding_biodiversity_scores.dta</a><br>
 <a href="/data/holding_biodiversity_scores.csv" target="_blank"><strong>Download (2023):</strong> holding_biodiversity_scores.csv</a><br><br>
