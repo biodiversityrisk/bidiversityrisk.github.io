@@ -12,8 +12,6 @@ permalink: /news/
 <style>
 	.desktop {
 		display: block;
-		width: 10%;
-        	height: auto;
 	}
 	.mobile {
     		display: none;
