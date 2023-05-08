@@ -40,7 +40,9 @@ permalink: /download/
 <a href="/data/holding_biodiversity_scores.csv" target="_blank"><strong>Download (2023):</strong> holding_biodiversity_scores.csv</a><br><br>
 
 +  County-level Biodiversity Scores<br>
+<!--<a href="/data/holding_biodiversity_scores.dta" target="_blank"><strong>Download (2023):</strong> holding_biodiversity_scores.dta</a><br>-->
 <a href="/data/county_biodiversity_scores.csv" target="_blank"><strong>Download (2023):</strong> county_biodiversity_scores.csv</a><br><br>
 
 +  Country-level Biodiversity Scores<br>
+<!--<a href="/data/holding_biodiversity_scores.dta" target="_blank"><strong>Download (2023):</strong> holding_biodiversity_scores.dta</a><br>-->
 <a href="/data/country_biodiversity_scores.csv" target="_blank"><strong>Download (2023):</strong> country_biodiversity_scores.csv</a><br><br>
