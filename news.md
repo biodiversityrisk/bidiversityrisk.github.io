@@ -8,14 +8,17 @@ permalink: /news/
 
 
 <!-- Styles for desktop and mobile devices -->
+<!-- Styles for desktop and mobile devices -->
 <style>
 	.desktop {
 		display: block;
+		width: 10%;
+        	height: auto;
 	}
 	.mobile {
     		display: none;
   	}
-	@media only screen and (max-width: 800px) {
+	@media only screen and (max-width: 1000px) {
 		.mobile {
 			display: block;
 		}
