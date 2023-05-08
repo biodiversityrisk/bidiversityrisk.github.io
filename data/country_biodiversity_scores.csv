@@ -1,0 +1,1390 @@
+year,country_code,country_name,continent,bio_index_degradation,bio_index_regulation,bio_species
+2010,ABW,Aruba,North America,0,0,
+2010,ALB,Republic of Albania,Europe,0,0,.17511111
+2010,ARM,Republic of Armenia,Asia,0,1,.17604356
+2010,ATG,Antigua and Barbuda,North America,0,0,.13293651
+2010,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2010,AUT,Republic of Austria,Europe,0,0,.12906724
+2010,AZE,Republic of Azerbaijan,Asia,0,0,.14285715
+2010,BDI,Republic of Burundi,Africa,0,0,.04209749
+2010,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2010,BEN,Republic of Benin,Africa,0,0,.067674585
+2010,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2010,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2010,BIH,Bosnia and Herzegovina,Europe,0,0,.13121273
+2010,BLZ,Belize,North America,0,0,.090656802
+2010,BRB,Barbados,North America,0,0,.13765182
+2010,BWA,Republic of Botswana,Africa,0,0,.025447691
+2010,CAN,Canada,North America,0,0,.096868888
+2010,CHE,Swiss Confederation,Europe,0,0,.069963813
+2010,CHL,Republic of Chile,South America,0,0,.15160643
+2010,CHN,People's Republic of China,Asia,0,0,.14440434
+2010,CMR,Republic of Cameroon,Africa,0,0,.11655948
+2010,COG,Republic of the Congo,Africa,0,0,.070289135
+2010,COL,Republic of Colombia,South America,0,0,.15118878
+2010,COM,Union of the Comoros,Africa,0,0,.11866235
+2010,CPV,Republic of Cabo Verde,Africa,0,0,.30259365
+2010,CYP,Republic of Cyprus,Asia,0,0,.1755424
+2010,CZE,Czech Republic,Europe,0,0,.077793494
+2010,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2010,DMA,Commonwealth of Dominica,North America,0,0,.13904762
+2010,DNK,Kingdom of Denmark,Europe,0,0,.068814054
+2010,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2010,EGY,Arab Republic of Egypt,Africa,0,0,.11125916
+2010,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2010,EST,Republic of Estonia,Europe,0,0,.046242774
+2010,ETH,Federal Democratic Republic of Ethiopia,Africa,0,0,.07091172
+2010,FIN,Republic of Finland,Europe,0,0,.046210721
+2010,FJI,Republic of Fiji,Oceania,0,0,.11841038
+2010,FRA,French Republic,Europe,0,0,.12083493
+2010,FSM,Federated States of Micronesia,Oceania,0,0,.13160518
+2010,GAB,Gabonese Republic,Africa,0,1,.077473186
+2010,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2010,GMB,Republic of the Gambia,Africa,0,0,.07932011
+2010,GNB,Republic of Guinea-Bissau,Africa,0,0,.089483395
+2010,GNQ,Republic of Equatorial Guinea,Africa,0,0,.093821511
+2010,GUY,Co-operative Republic of Guyana,South America,0,1,.06287425
+2010,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,0,
+2010,HRV,Republic of Croatia,Europe,0,0,.15979381
+2010,HTI,Republic of Haiti,North America,0,0,.2718327
+2010,HUN,Republic of Hungary,Europe,0,0,.1042471
+2010,IDN,Republic of Indonesia,Asia,1,0,.1564521
+2010,IND,Republic of India,Asia,0,0,.1646369
+2010,IRL,Ireland,Europe,0,0,.098566309
+2010,ISL,Republic of Iceland,Europe,0,0,.12234043
+2010,ISR,State of Israel,Asia,0,0,.13848397
+2010,ITA,Italian Republic,Europe,0,0,.15766051
+2010,JOR,Hashemite Kingdom of Jordan,Asia,0,0,.10996564
+2010,JPN,Japan,Asia,0,0,.16051431
+2010,KAZ,Republic of Kazakhstan,Asia,0,0,.072142065
+2010,KHM,Kingdom of Cambodia,Asia,0,0,.13887481
+2010,KOR,Republic of Korea,Asia,0,0,.15796897
+2010,KWT,State of Kuwait,Asia,0,0,.11
+2010,LBN,Lebanese Republic,Asia,0,0,.16185898
+2010,LBR,Republic of Liberia,Africa,0,0,.11055277
+2010,LCA,Saint Lucia,North America,0,0,.14570858
+2010,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2010,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2010,LVA,Republic of Latvia,Europe,0,0,.038602941
+2010,MDA,Republic of Moldova,Europe,0,0,.051968504
+2010,MDV,Republic of Maldives,Seven seas (open ocean),0,0,.10997442
+2010,MEX,United Mexican States,North America,0,0,.19660249
+2010,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2010,MLI,Republic of Mali,Africa,0,0,.032667875
+2010,MLT,Republic of Malta,Europe,0,0,.15803109
+2010,MNE,Montenegro,Europe,0,0,.12576687
+2010,MYS,Malaysia,Asia,0,0,.15060827
+2010,NAM,Republic of Namibia,Africa,0,0,.057371095
+2010,NGA,Federal Republic of Nigeria,Africa,0,1,.090457253
+2010,NPL,Nepal,Asia,0,1,.097207859
+2010,NZL,New Zealand,Oceania,0,0,.16583748
+2010,PAN,Republic of Panama,North America,0,0,.12397072
+2010,PER,Republic of Peru,South America,0,0,.11850093
+2010,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2010,PLW,Republic of Palau,Oceania,0,0,.096746579
+2010,PNG,Independent State of Papua New Guinea,Oceania,0,0,.11399417
+2010,POL,Republic of Poland,Europe,0,0,.058977719
+2010,PRY,Republic of Paraguay,South America,0,0,.052951388
+2010,QAT,State of Qatar,Asia,0,0,.12774451
+2010,RUS,Russian Federation,Europe,0,0,.1106599
+2010,RWA,Republic of Rwanda,Africa,0,0,.051738076
+2010,SDN,Republic of the Sudan,Africa,0,0,.074202895
+2010,SEN,Republic of Senegal,Africa,0,0,.086232983
+2010,SGP,Republic of Singapore,Asia,0,0,.15840456
+2010,SLE,Republic of Sierra Leone,Africa,0,0,.10028654
+2010,SLV,Republic of El Salvador,North America,0,0,.083986565
+2010,SMR,Republic of San Marino,Europe,0,0,.031319909
+2010,SRB,Republic of Serbia,Europe,0,0,
+2010,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2010,SWZ,Kingdom of eSwatini,Africa,0,0,.034368072
+2010,SYC,Republic of Seychelles,Seven seas (open ocean),0,0,.15830874
+2010,TCD,Republic of Chad,Africa,0,0,.03461919
+2010,THA,Kingdom of Thailand,Asia,0,0,.12882692
+2010,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2010,TTO,Republic of Trinidad and Tobago,North America,0,1,.098752595
+2010,TUN,Republic of Tunisia,Africa,0,0,.11699165
+2010,TUR,Republic of Turkey,Asia,0,0,.21935934
+2010,TUV,Tuvalu,Oceania,0,1,.12658228
+2010,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2010,USA,United States of America,North America,0,0,.19534719
+2010,VNM,Socialist Republic of Vietnam,Asia,0,0,.16824494
+2010,WSM,Independent State of Samoa,Oceania,0,0,.10372961
+2010,ZAF,Republic of South Africa,Africa,0,0,.14876033
+2010,ZWE,Republic of Zimbabwe,Africa,0,0,.03178484
+2011,AFG,Islamic State of Afghanistan,Asia,0,0,.06936416
+2011,ALB,Republic of Albania,Europe,0,0,.17511111
+2011,ARE,United Arab Emirates,Asia,0,0,.11934157
+2011,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2011,AUT,Republic of Austria,Europe,0,0,.12906724
+2011,AZE,Republic of Azerbaijan,Asia,0,0,.14285715
+2011,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2011,BFA,Burkina Faso,Africa,0,0,.030549899
+2011,BGD,People's Republic of Bangladesh,Asia,0,0,.12620027
+2011,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2011,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2011,BLR,Republic of Belarus,Europe,0,0,.033277869
+2011,BLZ,Belize,North America,0,0,.090656802
+2011,BOL,Plurinational State of Bolivia,South America,0,0,.080414012
+2011,BRB,Barbados,North America,0,0,.13765182
+2011,BTN,Kingdom of Bhutan,Asia,0,1,.10493047
+2011,BWA,Republic of Botswana,Africa,0,0,.025447691
+2011,CAF,Central African Republic,Africa,0,0,.026625387
+2011,CAN,Canada,North America,0,0,.096868888
+2011,CHE,Swiss Confederation,Europe,0,0,.069963813
+2011,CHL,Republic of Chile,South America,0,0,.15160643
+2011,CHN,People's Republic of China,Asia,0,0,.14440434
+2011,CIV,Republic of Ivory Coast,Africa,0,0,.088823527
+2011,CMR,Republic of Cameroon,Africa,0,0,.11655948
+2011,COL,Republic of Colombia,South America,0,0,.15118878
+2011,CRI,Republic of Costa Rica,North America,0,0,.11201216
+2011,CUW,Curaçao,North America,0,0,
+2011,CYP,Republic of Cyprus,Asia,0,0,.1755424
+2011,CZE,Czech Republic,Europe,0,0,.077793494
+2011,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2011,DMA,Commonwealth of Dominica,North America,0,0,.13904762
+2011,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2011,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2011,EST,Republic of Estonia,Europe,0,0,.046242774
+2011,FJI,Republic of Fiji,Oceania,0,0,.11841038
+2011,FRA,French Republic,Europe,0,0,.12083493
+2011,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2011,GEO,Georgia,Asia,0,0,.15350877
+2011,GHA,Republic of Ghana,Africa,0,0,.080389768
+2011,GIN,Republic of Guinea,Africa,0,0,.11505922
+2011,GMB,Republic of the Gambia,Africa,0,0,.07932011
+2011,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,0,
+2011,HRV,Republic of Croatia,Europe,0,0,.15979381
+2011,HUN,Republic of Hungary,Europe,0,0,.1042471
+2011,IDN,Republic of Indonesia,Asia,0,0,.1564521
+2011,IRN,Islamic Republic of Iran,Asia,0,0,.11554333
+2011,ITA,Italian Republic,Europe,0,0,.15766051
+2011,JPN,Japan,Asia,0,0,.16051431
+2011,KAZ,Republic of Kazakhstan,Asia,0,1,.072142065
+2011,KEN,Republic of Kenya,Africa,0,0,.088686131
+2011,KGZ,Kyrgyz Republic,Asia,0,0,.073496662
+2011,KHM,Kingdom of Cambodia,Asia,0,0,.13887481
+2011,KIR,Republic of Kiribati,Oceania,0,0,.12781955
+2011,KNA,Federation of Saint Kitts and Nevis,North America,0,0,.13152401
+2011,KOR,Republic of Korea,Asia,0,0,.15796897
+2011,KWT,State of Kuwait,Asia,0,0,.11
+2011,LBN,Lebanese Republic,Asia,0,0,.16185898
+2011,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2011,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2011,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2011,MEX,United Mexican States,North America,0,0,.19660249
+2011,MHL,Republic of the Marshall Islands,Oceania,0,0,.11542857
+2011,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2011,MMR,Republic of the Union of Myanmar,Asia,0,0,.11657682
+2011,MNE,Montenegro,Europe,0,0,.12576687
+2011,MNG,Mongolia,Asia,0,0,.058380414
+2011,MOZ,Republic of Mozambique,Africa,0,0,.086576939
+2011,MUS,Republic of Mauritius,Seven seas (open ocean),0,1,.11740042
+2011,MYS,Malaysia,Asia,0,0,.15060827
+2011,NAM,Republic of Namibia,Africa,0,0,.057371095
+2011,NGA,Federal Republic of Nigeria,Africa,0,1,.090457253
+2011,NLD,Kingdom of the Netherlands,Europe,0,0,.095860563
+2011,NOR,Kingdom of Norway,Europe,0,0,
+2011,NZL,New Zealand,Oceania,0,0,.16583748
+2011,PAK,Islamic Republic of Pakistan,Asia,0,0,.13218391
+2011,PAN,Republic of Panama,North America,0,0,.12397072
+2011,PER,Republic of Peru,South America,0,0,.11850093
+2011,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2011,PNG,Independent State of Papua New Guinea,Oceania,0,0,.11399417
+2011,POL,Republic of Poland,Europe,0,0,.058977719
+2011,PRY,Republic of Paraguay,South America,0,0,.052951388
+2011,QAT,State of Qatar,Asia,0,0,.12774451
+2011,RUS,Russian Federation,Europe,0,0,.1106599
+2011,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2011,SGP,Republic of Singapore,Asia,0,0,.15840456
+2011,STP,Democratic Republic of São Tomé and Principe,Africa,0,0,.18674698
+2011,SUR,Republic of Suriname,South America,1,0,.045640327
+2011,SVK,Slovak Republic,Europe,0,0,.077235773
+2011,SVN,Republic of Slovenia,Europe,0,0,.11741683
+2011,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2011,SWZ,Kingdom of eSwatini,Africa,0,0,.034368072
+2011,TCD,Republic of Chad,Africa,0,0,.03461919
+2011,TGO,Togolese Republic,Africa,0,0,.062682219
+2011,TJK,Republic of Tajikistan,Asia,0,0,.066371679
+2011,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2011,TTO,Republic of Trinidad and Tobago,North America,0,1,.098752595
+2011,TUR,Republic of Turkey,Asia,0,0,.21935934
+2011,TZA,United Republic of Tanzania,Africa,0,0,.11363
+2011,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2011,USA,United States of America,North America,0,0,.19534719
+2011,VCT,Saint Vincent and the Grenadines,North America,0,0,.14343435
+2011,VUT,Republic of Vanuatu,Oceania,0,0,.09794239
+2011,ZAF,Republic of South Africa,Africa,0,0,.14876033
+2011,ZWE,Republic of Zimbabwe,Africa,0,0,.03178484
+2012,AGO,People's Republic of Angola,Africa,0,0,.059569076
+2012,ALB,Republic of Albania,Europe,0,0,.17511111
+2012,ARE,United Arab Emirates,Asia,0,0,.11934157
+2012,ARM,Republic of Armenia,Asia,0,0,.17604356
+2012,ATG,Antigua and Barbuda,North America,0,0,.13293651
+2012,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2012,AUT,Republic of Austria,Europe,0,0,.12906724
+2012,BDI,Republic of Burundi,Africa,0,0,.04209749
+2012,BEN,Republic of Benin,Africa,0,0,.067674585
+2012,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2012,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2012,BIH,Bosnia and Herzegovina,Europe,0,0,.13121273
+2012,BLR,Republic of Belarus,Europe,0,1,.033277869
+2012,BOL,Plurinational State of Bolivia,South America,0,0,.080414012
+2012,BRA,Federative Republic of Brazil,South America,0,1,.10503381
+2012,BWA,Republic of Botswana,Africa,0,0,.025447691
+2012,CAN,Canada,North America,0,0,.096868888
+2012,CHE,Swiss Confederation,Europe,0,0,.069963813
+2012,CHL,Republic of Chile,South America,0,0,.15160643
+2012,CHN,People's Republic of China,Asia,0,0,.14440434
+2012,CMR,Republic of Cameroon,Africa,0,0,.11655948
+2012,COG,Republic of the Congo,Africa,0,0,.070289135
+2012,COL,Republic of Colombia,South America,0,0,.15118878
+2012,COM,Union of the Comoros,Africa,0,0,.11866235
+2012,CRI,Republic of Costa Rica,North America,0,0,.11201216
+2012,CZE,Czech Republic,Europe,0,0,.077793494
+2012,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2012,DMA,Commonwealth of Dominica,North America,0,0,.13904762
+2012,DNK,Kingdom of Denmark,Europe,0,0,.068814054
+2012,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2012,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2012,ETH,Federal Democratic Republic of Ethiopia,Africa,0,0,.07091172
+2012,FIN,Republic of Finland,Europe,0,0,.046210721
+2012,FRA,French Republic,Europe,0,0,.12083493
+2012,FSM,Federated States of Micronesia,Oceania,0,0,.13160518
+2012,GAB,Gabonese Republic,Africa,0,0,.077473186
+2012,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2012,GNQ,Republic of Equatorial Guinea,Africa,0,0,.093821511
+2012,GTM,Republic of Guatemala,North America,0,0,.1508069
+2012,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,0,
+2012,HRV,Republic of Croatia,Europe,0,0,.15979381
+2012,HTI,Republic of Haiti,North America,0,0,.2718327
+2012,IDN,Republic of Indonesia,Asia,0,0,.1564521
+2012,IND,Republic of India,Asia,0,0,.1646369
+2012,IRL,Ireland,Europe,0,0,.098566309
+2012,ISL,Republic of Iceland,Europe,0,0,.12234043
+2012,ISR,State of Israel,Asia,0,0,.13848397
+2012,ITA,Italian Republic,Europe,0,0,.15766051
+2012,JOR,Hashemite Kingdom of Jordan,Asia,0,0,.10996564
+2012,JPN,Japan,Asia,0,0,.16051431
+2012,KAZ,Republic of Kazakhstan,Asia,0,1,.072142065
+2012,KHM,Kingdom of Cambodia,Asia,0,0,.13887481
+2012,KWT,State of Kuwait,Asia,0,0,.11
+2012,LAO,Lao People's Democratic Republic,Asia,0,0,.12451613
+2012,LBR,Republic of Liberia,Africa,0,0,.11055277
+2012,LSO,Kingdom of Lesotho,Africa,0,0,.026223777
+2012,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2012,LVA,Republic of Latvia,Europe,0,0,.038602941
+2012,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2012,MDA,Republic of Moldova,Europe,0,0,.051968504
+2012,MDV,Republic of Maldives,Seven seas (open ocean),0,0,.10997442
+2012,MEX,United Mexican States,North America,0,0,.19660249
+2012,MLI,Republic of Mali,Africa,0,0,.032667875
+2012,MLT,Republic of Malta,Europe,0,0,.15803109
+2012,MNE,Montenegro,Europe,0,0,.12576687
+2012,MNG,Mongolia,Asia,0,0,.058380414
+2012,MRT,Islamic Republic of Mauritania,Africa,0,0,.096078433
+2012,MUS,Republic of Mauritius,Seven seas (open ocean),0,0,.11740042
+2012,MWI,Republic of Malawi,Africa,0,0,.049083769
+2012,MYS,Malaysia,Asia,0,0,.15060827
+2012,NAM,Republic of Namibia,Africa,0,0,.057371095
+2012,NER,Republic of Niger,Africa,0,1,.03520352
+2012,NIC,Republic of Nicaragua,North America,0,0,.093410112
+2012,NPL,Nepal,Asia,0,0,.097207859
+2012,NZL,New Zealand,Oceania,0,0,.16583748
+2012,PAN,Republic of Panama,North America,0,0,.12397072
+2012,PER,Republic of Peru,South America,0,0,.11850093
+2012,PLW,Republic of Palau,Oceania,0,0,.096746579
+2012,PNG,Independent State of Papua New Guinea,Oceania,0,0,.11399417
+2012,POL,Republic of Poland,Europe,0,0,.058977719
+2012,PRT,Portuguese Republic,Europe,0,0,.2038065
+2012,PRY,Republic of Paraguay,South America,0,0,.052951388
+2012,QAT,State of Qatar,Asia,0,0,.12774451
+2012,RUS,Russian Federation,Europe,0,0,.1106599
+2012,RWA,Republic of Rwanda,Africa,0,0,.051738076
+2012,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2012,SDN,Republic of the Sudan,Africa,0,0,.074202895
+2012,SEN,Republic of Senegal,Africa,0,0,.086232983
+2012,SGP,Republic of Singapore,Asia,0,0,.15840456
+2012,SMR,Republic of San Marino,Europe,0,0,.031319909
+2012,SUR,Republic of Suriname,South America,0,0,.045640327
+2012,SVK,Slovak Republic,Europe,0,0,.077235773
+2012,SVN,Republic of Slovenia,Europe,0,0,.11741683
+2012,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2012,TCD,Republic of Chad,Africa,0,0,.03461919
+2012,THA,Kingdom of Thailand,Asia,0,0,.12882692
+2012,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2012,TUN,Republic of Tunisia,Africa,0,0,.11699165
+2012,TUR,Republic of Turkey,Asia,0,0,.21935934
+2012,TUV,Tuvalu,Oceania,0,1,.12658228
+2012,UKR,Ukraine,Europe,0,0,.091684438
+2012,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2012,USA,United States of America,North America,0,0,.19534719
+2012,UZB,Republic of Uzbekistan,Asia,0,0,.073684208
+2012,VCT,Saint Vincent and the Grenadines,North America,0,0,.14343435
+2012,VNM,Socialist Republic of Vietnam,Asia,0,1,.16824494
+2012,WSM,Independent State of Samoa,Oceania,0,0,.10372961
+2012,ZMB,Republic of Zambia,Africa,0,0,.04230566
+2012,ZWE,Republic of Zimbabwe,Africa,0,0,.03178484
+2013,ABW,Aruba,North America,0,0,
+2013,ALB,Republic of Albania,Europe,0,0,.17511111
+2013,ARE,United Arab Emirates,Asia,0,0,.11934157
+2013,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2013,AUT,Republic of Austria,Europe,0,0,.12906724
+2013,AZE,Republic of Azerbaijan,Asia,0,0,.14285715
+2013,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2013,BGD,People's Republic of Bangladesh,Asia,0,0,.12620027
+2013,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2013,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2013,BLR,Republic of Belarus,Europe,0,0,.033277869
+2013,BLZ,Belize,North America,0,0,.090656802
+2013,BOL,Plurinational State of Bolivia,South America,0,0,.080414012
+2013,BRA,Federative Republic of Brazil,South America,0,1,.10503381
+2013,BRB,Barbados,North America,0,0,.13765182
+2013,BWA,Republic of Botswana,Africa,0,0,.025447691
+2013,CAN,Canada,North America,0,0,.096868888
+2013,CHE,Swiss Confederation,Europe,0,0,.069963813
+2013,CHL,Republic of Chile,South America,0,0,.15160643
+2013,CHN,People's Republic of China,Asia,1,1,.14440434
+2013,CIV,Republic of Ivory Coast,Africa,0,0,.088823527
+2013,CMR,Republic of Cameroon,Africa,0,0,.11655948
+2013,COG,Republic of the Congo,Africa,0,0,.070289135
+2013,CZE,Czech Republic,Europe,0,0,.077793494
+2013,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2013,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2013,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2013,EST,Republic of Estonia,Europe,0,0,.046242774
+2013,ETH,Federal Democratic Republic of Ethiopia,Africa,0,0,.07091172
+2013,FJI,Republic of Fiji,Oceania,0,0,.11841038
+2013,FRA,French Republic,Europe,0,0,.12083493
+2013,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2013,GEO,Georgia,Asia,0,0,.15350877
+2013,GHA,Republic of Ghana,Africa,0,0,.080389768
+2013,GIN,Republic of Guinea,Africa,0,1,.11505922
+2013,GMB,Republic of the Gambia,Africa,0,0,.07932011
+2013,GRC,Hellenic Republic,Europe,0,0,.20015278
+2013,GTM,Republic of Guatemala,North America,0,0,.1508069
+2013,GUY,Co-operative Republic of Guyana,South America,0,0,.06287425
+2013,HUN,Republic of Hungary,Europe,0,0,.1042471
+2013,IDN,Republic of Indonesia,Asia,0,0,.1564521
+2013,IND,Republic of India,Asia,0,0,.1646369
+2013,IRQ,Republic of Iraq,Asia,0,0,.099056602
+2013,ISL,Republic of Iceland,Europe,0,0,.12234043
+2013,ISR,State of Israel,Asia,0,0,.13848397
+2013,ITA,Italian Republic,Europe,0,0,.15766051
+2013,JPN,Japan,Asia,0,0,.16051431
+2013,KAZ,Republic of Kazakhstan,Asia,0,1,.072142065
+2013,KGZ,Kyrgyz Republic,Asia,0,0,.073496662
+2013,KHM,Kingdom of Cambodia,Asia,0,0,.13887481
+2013,KIR,Republic of Kiribati,Oceania,0,0,.12781955
+2013,KOR,Republic of Korea,Asia,0,0,.15796897
+2013,KWT,State of Kuwait,Asia,0,0,.11
+2013,LAO,Lao People's Democratic Republic,Asia,0,0,.12451613
+2013,LBY,Libya,Africa,0,0,.12743363
+2013,LKA,Democratic Socialist Republic of Sri Lanka,Asia,0,0,.25349087
+2013,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2013,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2013,MEX,United Mexican States,North America,0,0,.19660249
+2013,MHL,Republic of the Marshall Islands,Oceania,0,1,.11542857
+2013,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2013,MLT,Republic of Malta,Europe,0,0,.15803109
+2013,MMR,Republic of the Union of Myanmar,Asia,0,0,.11657682
+2013,MNE,Montenegro,Europe,0,0,.12576687
+2013,MNG,Mongolia,Asia,0,0,.058380414
+2013,MOZ,Republic of Mozambique,Africa,0,0,.086576939
+2013,MUS,Republic of Mauritius,Seven seas (open ocean),0,0,.11740042
+2013,MYS,Malaysia,Asia,0,0,.15060827
+2013,NAM,Republic of Namibia,Africa,0,1,.057371095
+2013,NGA,Federal Republic of Nigeria,Africa,0,0,.090457253
+2013,NIC,Republic of Nicaragua,North America,0,0,.093410112
+2013,NLD,Kingdom of the Netherlands,Europe,0,0,.095860563
+2013,NOR,Kingdom of Norway,Europe,0,0,
+2013,NZL,New Zealand,Oceania,0,0,.16583748
+2013,PAK,Islamic Republic of Pakistan,Asia,0,0,.13218391
+2013,PER,Republic of Peru,South America,0,0,.11850093
+2013,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2013,POL,Republic of Poland,Europe,0,0,.058977719
+2013,PRY,Republic of Paraguay,South America,0,0,.052951388
+2013,RUS,Russian Federation,Europe,0,0,.1106599
+2013,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2013,SDN,Republic of the Sudan,Africa,0,0,.074202895
+2013,SGP,Republic of Singapore,Asia,0,0,.15840456
+2013,SLE,Republic of Sierra Leone,Africa,0,1,.10028654
+2013,SLV,Republic of El Salvador,North America,0,0,.083986565
+2013,SMR,Republic of San Marino,Europe,0,0,.031319909
+2013,SRB,Republic of Serbia,Europe,0,0,
+2013,STP,Democratic Republic of São Tomé and Principe,Africa,0,0,.18674698
+2013,SUR,Republic of Suriname,South America,0,0,.045640327
+2013,SVK,Slovak Republic,Europe,0,0,.077235773
+2013,SVN,Republic of Slovenia,Europe,0,0,.11741683
+2013,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2013,SYC,Republic of Seychelles,Seven seas (open ocean),0,0,.15830874
+2013,TCD,Republic of Chad,Africa,0,0,.03461919
+2013,TGO,Togolese Republic,Africa,0,0,.062682219
+2013,THA,Kingdom of Thailand,Asia,0,1,.12882692
+2013,TJK,Republic of Tajikistan,Asia,0,0,.066371679
+2013,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2013,TTO,Republic of Trinidad and Tobago,North America,0,1,.098752595
+2013,TUR,Republic of Turkey,Asia,0,0,.21935934
+2013,UGA,Republic of Uganda,Africa,0,0,.06860593
+2013,UKR,Ukraine,Europe,0,0,.091684438
+2013,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2013,USA,United States of America,North America,0,0,.19534719
+2013,VUT,Republic of Vanuatu,Oceania,0,0,.09794239
+2013,YEM,Republic of Yemen,Asia,0,0,
+2013,ZAF,Republic of South Africa,Africa,0,0,.14876033
+2013,ZMB,Republic of Zambia,Africa,0,0,.04230566
+2014,AFG,Islamic State of Afghanistan,Asia,0,0,.06936416
+2014,AGO,People's Republic of Angola,Africa,0,0,.059569076
+2014,ARE,United Arab Emirates,Asia,0,0,.11934157
+2014,ARM,Republic of Armenia,Asia,0,0,.17604356
+2014,ATG,Antigua and Barbuda,North America,0,0,.13293651
+2014,AUT,Republic of Austria,Europe,0,0,.12906724
+2014,AZE,Republic of Azerbaijan,Asia,0,0,.14285715
+2014,BDI,Republic of Burundi,Africa,0,0,.04209749
+2014,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2014,BFA,Burkina Faso,Africa,0,0,.030549899
+2014,BLR,Republic of Belarus,Europe,0,1,.033277869
+2014,BLZ,Belize,North America,0,0,.090656802
+2014,BRA,Federative Republic of Brazil,South America,0,0,.10503381
+2014,BTN,Kingdom of Bhutan,Asia,0,0,.10493047
+2014,BWA,Republic of Botswana,Africa,0,0,.025447691
+2014,CAN,Canada,North America,0,0,.096868888
+2014,CHE,Swiss Confederation,Europe,0,0,.069963813
+2014,CHL,Republic of Chile,South America,0,0,.15160643
+2014,CHN,People's Republic of China,Asia,1,0,.14440434
+2014,CMR,Republic of Cameroon,Africa,0,0,.11655948
+2014,COG,Republic of the Congo,Africa,0,0,.070289135
+2014,COL,Republic of Colombia,South America,0,0,.15118878
+2014,COM,Union of the Comoros,Africa,0,1,.11866235
+2014,CPV,Republic of Cabo Verde,Africa,0,0,.30259365
+2014,CRI,Republic of Costa Rica,North America,0,0,.11201216
+2014,CUW,Curaçao,North America,0,0,
+2014,CYP,Republic of Cyprus,Asia,0,0,.1755424
+2014,CZE,Czech Republic,Europe,0,0,.077793494
+2014,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2014,DJI,Republic of Djibouti,Africa,0,0,.096265562
+2014,DNK,Kingdom of Denmark,Europe,0,0,.068814054
+2014,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2014,EGY,Arab Republic of Egypt,Africa,0,0,.11125916
+2014,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2014,EST,Republic of Estonia,Europe,0,0,.046242774
+2014,ETH,Federal Democratic Republic of Ethiopia,Africa,0,0,.07091172
+2014,FIN,Republic of Finland,Europe,0,0,.046210721
+2014,FJI,Republic of Fiji,Oceania,0,0,.11841038
+2014,FRA,French Republic,Europe,0,0,.12083493
+2014,GAB,Gabonese Republic,Africa,0,0,.077473186
+2014,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2014,GHA,Republic of Ghana,Africa,0,0,.080389768
+2014,GRD,Grenada,North America,0,0,.14757282
+2014,GTM,Republic of Guatemala,North America,0,0,.1508069
+2014,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,0,
+2014,HRV,Republic of Croatia,Europe,0,0,.15979381
+2014,HUN,Republic of Hungary,Europe,0,0,.1042471
+2014,IDN,Republic of Indonesia,Asia,0,0,.1564521
+2014,IND,Republic of India,Asia,0,0,.1646369
+2014,IRN,Islamic Republic of Iran,Asia,0,0,.11554333
+2014,ISL,Republic of Iceland,Europe,0,0,.12234043
+2014,ITA,Italian Republic,Europe,0,0,.15766051
+2014,JAM,Jamaica,North America,0,0,.17619048
+2014,JOR,Hashemite Kingdom of Jordan,Asia,0,0,.10996564
+2014,JPN,Japan,Asia,0,0,.16051431
+2014,KAZ,Republic of Kazakhstan,Asia,0,1,.072142065
+2014,KEN,Republic of Kenya,Africa,0,0,.088686131
+2014,KIR,Republic of Kiribati,Oceania,0,1,.12781955
+2014,KNA,Federation of Saint Kitts and Nevis,North America,0,0,.13152401
+2014,KWT,State of Kuwait,Asia,0,0,.11
+2014,LAO,Lao People's Democratic Republic,Asia,0,1,.12451613
+2014,LBN,Lebanese Republic,Asia,0,0,.16185898
+2014,LKA,Democratic Socialist Republic of Sri Lanka,Asia,0,0,.25349087
+2014,LSO,Kingdom of Lesotho,Africa,0,0,.026223777
+2014,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2014,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2014,LVA,Republic of Latvia,Europe,0,0,.038602941
+2014,MAC,"Macao Special Administrative Region, PRC",Asia,0,0,
+2014,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2014,MDA,Republic of Moldova,Europe,0,0,.051968504
+2014,MDG,Republic of Madagascar,Africa,0,0,.30938199
+2014,MDV,Republic of Maldives,Seven seas (open ocean),0,0,.10997442
+2014,MEX,United Mexican States,North America,0,0,.19660249
+2014,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2014,MLT,Republic of Malta,Europe,0,0,.15803109
+2014,MMR,Republic of the Union of Myanmar,Asia,0,0,.11657682
+2014,MNE,Montenegro,Europe,0,0,.12576687
+2014,MRT,Islamic Republic of Mauritania,Africa,0,0,.096078433
+2014,MUS,Republic of Mauritius,Seven seas (open ocean),0,0,.11740042
+2014,MYS,Malaysia,Asia,0,0,.15060827
+2014,NER,Republic of Niger,Africa,0,0,.03520352
+2014,NGA,Federal Republic of Nigeria,Africa,0,0,.090457253
+2014,NLD,Kingdom of the Netherlands,Europe,0,0,.095860563
+2014,NOR,Kingdom of Norway,Europe,0,0,
+2014,NPL,Nepal,Asia,0,0,.097207859
+2014,NZL,New Zealand,Oceania,0,0,.16583748
+2014,PAN,Republic of Panama,North America,0,0,.12397072
+2014,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2014,PLW,Republic of Palau,Oceania,0,0,.096746579
+2014,PNG,Independent State of Papua New Guinea,Oceania,0,0,.11399417
+2014,POL,Republic of Poland,Europe,0,0,.058977719
+2014,PRY,Republic of Paraguay,South America,0,0,.052951388
+2014,QAT,State of Qatar,Asia,0,0,.12774451
+2014,RUS,Russian Federation,Europe,0,0,.1106599
+2014,RWA,Republic of Rwanda,Africa,0,0,.051738076
+2014,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2014,SDN,Republic of the Sudan,Africa,0,0,.074202895
+2014,SEN,Republic of Senegal,Africa,0,0,.086232983
+2014,SGP,Republic of Singapore,Asia,0,0,.15840456
+2014,SLV,Republic of El Salvador,North America,0,0,.083986565
+2014,SMR,Republic of San Marino,Europe,0,0,.031319909
+2014,SRB,Republic of Serbia,Europe,0,0,
+2014,SSD,Republic of South Sudan,Africa,0,0,.032097004
+2014,SUR,Republic of Suriname,South America,0,0,.045640327
+2014,SVK,Slovak Republic,Europe,0,0,.077235773
+2014,SVN,Republic of Slovenia,Europe,0,0,.11741683
+2014,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2014,SWZ,Kingdom of eSwatini,Africa,0,0,.034368072
+2014,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2014,TTO,Republic of Trinidad and Tobago,North America,0,0,.098752595
+2014,TUR,Republic of Turkey,Asia,0,0,.21935934
+2014,TUV,Tuvalu,Oceania,1,1,.12658228
+2014,TZA,United Republic of Tanzania,Africa,0,0,.11363
+2014,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2014,USA,United States of America,North America,0,0,.19534719
+2014,VCT,Saint Vincent and the Grenadines,North America,1,0,.14343435
+2014,VNM,Socialist Republic of Vietnam,Asia,0,0,.16824494
+2014,YEM,Republic of Yemen,Asia,0,0,
+2014,ZAF,Republic of South Africa,Africa,0,0,.14876033
+2014,ZWE,Republic of Zimbabwe,Africa,0,0,.03178484
+2015,ABW,Aruba,North America,0,0,
+2015,AFG,Islamic State of Afghanistan,Asia,0,0,.06936416
+2015,AGO,People's Republic of Angola,Africa,0,0,.059569076
+2015,ARE,United Arab Emirates,Asia,0,0,.11934157
+2015,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2015,AUT,Republic of Austria,Europe,0,0,.12906724
+2015,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2015,BEN,Republic of Benin,Africa,0,0,.067674585
+2015,BGD,People's Republic of Bangladesh,Asia,0,0,.12620027
+2015,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2015,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2015,BIH,Bosnia and Herzegovina,Europe,0,0,.13121273
+2015,BLR,Republic of Belarus,Europe,0,1,.033277869
+2015,BLZ,Belize,North America,0,0,.090656802
+2015,BOL,Plurinational State of Bolivia,South America,0,0,.080414012
+2015,BWA,Republic of Botswana,Africa,0,1,.025447691
+2015,CHE,Swiss Confederation,Europe,0,0,.069963813
+2015,CHL,Republic of Chile,South America,0,0,.15160643
+2015,CHN,People's Republic of China,Asia,1,1,.14440434
+2015,CMR,Republic of Cameroon,Africa,0,0,.11655948
+2015,COG,Republic of the Congo,Africa,0,0,.070289135
+2015,COL,Republic of Colombia,South America,0,0,.15118878
+2015,CZE,Czech Republic,Europe,0,0,.077793494
+2015,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2015,DJI,Republic of Djibouti,Africa,0,0,.096265562
+2015,DOM,Dominican Republic,North America,0,0,.21895006
+2015,ECU,Republic of Ecuador,South America,0,0,.17483811
+2015,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2015,EST,Republic of Estonia,Europe,0,0,.046242774
+2015,ETH,Federal Democratic Republic of Ethiopia,Africa,0,0,.07091172
+2015,FIN,Republic of Finland,Europe,0,0,.046210721
+2015,FJI,Republic of Fiji,Oceania,0,0,.11841038
+2015,FRA,French Republic,Europe,0,0,.12083493
+2015,FSM,Federated States of Micronesia,Oceania,0,1,.13160518
+2015,GAB,Gabonese Republic,Africa,0,0,.077473186
+2015,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2015,GMB,Republic of the Gambia,Africa,0,0,.07932011
+2015,GNB,Republic of Guinea-Bissau,Africa,0,0,.089483395
+2015,GNQ,Republic of Equatorial Guinea,Africa,0,0,.093821511
+2015,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,0,
+2015,HRV,Republic of Croatia,Europe,0,0,.15979381
+2015,HTI,Republic of Haiti,North America,0,1,.2718327
+2015,HUN,Republic of Hungary,Europe,0,0,.1042471
+2015,IDN,Republic of Indonesia,Asia,0,1,.1564521
+2015,IND,Republic of India,Asia,0,1,.1646369
+2015,IRL,Ireland,Europe,0,0,.098566309
+2015,IRN,Islamic Republic of Iran,Asia,0,0,.11554333
+2015,IRQ,Republic of Iraq,Asia,0,0,.099056602
+2015,ISR,State of Israel,Asia,0,0,.13848397
+2015,ITA,Italian Republic,Europe,0,0,.15766051
+2015,JPN,Japan,Asia,0,0,.16051431
+2015,KAZ,Republic of Kazakhstan,Asia,0,0,.072142065
+2015,KGZ,Kyrgyz Republic,Asia,0,0,.073496662
+2015,KHM,Kingdom of Cambodia,Asia,0,0,.13887481
+2015,KIR,Republic of Kiribati,Oceania,1,0,.12781955
+2015,KNA,Federation of Saint Kitts and Nevis,North America,0,0,.13152401
+2015,KOR,Republic of Korea,Asia,0,0,.15796897
+2015,KWT,State of Kuwait,Asia,0,0,.11
+2015,LBN,Lebanese Republic,Asia,0,0,.16185898
+2015,LCA,Saint Lucia,North America,0,0,.14570858
+2015,LSO,Kingdom of Lesotho,Africa,0,0,.026223777
+2015,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2015,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2015,LVA,Republic of Latvia,Europe,0,0,.038602941
+2015,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2015,MDA,Republic of Moldova,Europe,0,0,.051968504
+2015,MEX,United Mexican States,North America,0,0,.19660249
+2015,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2015,MLI,Republic of Mali,Africa,0,0,.032667875
+2015,MLT,Republic of Malta,Europe,0,0,.15803109
+2015,MMR,Republic of the Union of Myanmar,Asia,0,0,.11657682
+2015,MNE,Montenegro,Europe,0,0,.12576687
+2015,MNG,Mongolia,Asia,1,1,.058380414
+2015,MOZ,Republic of Mozambique,Africa,0,0,.086576939
+2015,MUS,Republic of Mauritius,Seven seas (open ocean),0,0,.11740042
+2015,MWI,Republic of Malawi,Africa,0,0,.049083769
+2015,NAM,Republic of Namibia,Africa,0,0,.057371095
+2015,NIC,Republic of Nicaragua,North America,0,0,.093410112
+2015,NLD,Kingdom of the Netherlands,Europe,0,0,.095860563
+2015,NOR,Kingdom of Norway,Europe,0,0,
+2015,NPL,Nepal,Asia,0,0,.097207859
+2015,NZL,New Zealand,Oceania,0,0,.16583748
+2015,PAK,Islamic Republic of Pakistan,Asia,0,0,.13218391
+2015,PAN,Republic of Panama,North America,0,0,.12397072
+2015,PER,Republic of Peru,South America,0,0,.11850093
+2015,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2015,PNG,Independent State of Papua New Guinea,Oceania,0,0,.11399417
+2015,POL,Republic of Poland,Europe,0,0,.058977719
+2015,PRT,Portuguese Republic,Europe,0,0,.2038065
+2015,QAT,State of Qatar,Asia,0,0,.12774451
+2015,RUS,Russian Federation,Europe,0,0,.1106599
+2015,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2015,SGP,Republic of Singapore,Asia,0,0,.15840456
+2015,SMR,Republic of San Marino,Europe,0,0,.031319909
+2015,SOM,Federal Republic of Somalia,Africa,0,0,.081124932
+2015,SVK,Slovak Republic,Europe,0,0,.077235773
+2015,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2015,SWZ,Kingdom of eSwatini,Africa,0,0,.034368072
+2015,SYC,Republic of Seychelles,Seven seas (open ocean),0,0,.15830874
+2015,TGO,Togolese Republic,Africa,0,0,.062682219
+2015,THA,Kingdom of Thailand,Asia,0,0,.12882692
+2015,TJK,Republic of Tajikistan,Asia,0,0,.066371679
+2015,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2015,TUN,Republic of Tunisia,Africa,0,0,.11699165
+2015,UGA,Republic of Uganda,Africa,0,0,.06860593
+2015,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2015,USA,United States of America,North America,0,0,.19534719
+2015,VUT,Republic of Vanuatu,Oceania,0,0,.09794239
+2015,WSM,Independent State of Samoa,Oceania,0,1,.10372961
+2015,ZMB,Republic of Zambia,Africa,0,0,.04230566
+2016,AGO,People's Republic of Angola,Africa,0,0,.059569076
+2016,ALB,Republic of Albania,Europe,0,0,.17511111
+2016,ARE,United Arab Emirates,Asia,0,0,.11934157
+2016,ARG,Argentine Republic,South America,0,0,.11197087
+2016,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2016,AUT,Republic of Austria,Europe,0,0,.12906724
+2016,AZE,Republic of Azerbaijan,Asia,0,0,.14285715
+2016,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2016,BFA,Burkina Faso,Africa,0,0,.030549899
+2016,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2016,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2016,BLR,Republic of Belarus,Europe,0,0,.033277869
+2016,BLZ,Belize,North America,0,1,.090656802
+2016,BOL,Plurinational State of Bolivia,South America,0,0,.080414012
+2016,BRA,Federative Republic of Brazil,South America,0,0,.10503381
+2016,BRB,Barbados,North America,0,0,.13765182
+2016,BTN,Kingdom of Bhutan,Asia,0,1,.10493047
+2016,CAF,Central African Republic,Africa,0,0,.026625387
+2016,CAN,Canada,North America,0,0,.096868888
+2016,CHE,Swiss Confederation,Europe,0,0,.069963813
+2016,CHL,Republic of Chile,South America,0,0,.15160643
+2016,CHN,People's Republic of China,Asia,1,0,.14440434
+2016,CIV,Republic of Ivory Coast,Africa,0,0,.088823527
+2016,COL,Republic of Colombia,South America,0,0,.15118878
+2016,COM,Union of the Comoros,Africa,0,0,.11866235
+2016,CPV,Republic of Cabo Verde,Africa,0,0,.30259365
+2016,CRI,Republic of Costa Rica,North America,0,0,.11201216
+2016,CUW,Curaçao,North America,0,0,
+2016,CZE,Czech Republic,Europe,0,0,.077793494
+2016,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2016,DJI,Republic of Djibouti,Africa,0,0,.096265562
+2016,DMA,Commonwealth of Dominica,North America,0,0,.13904762
+2016,DNK,Kingdom of Denmark,Europe,0,0,.068814054
+2016,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2016,ECU,Republic of Ecuador,South America,0,0,.17483811
+2016,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2016,EST,Republic of Estonia,Europe,0,0,.046242774
+2016,ETH,Federal Democratic Republic of Ethiopia,Africa,0,0,.07091172
+2016,FIN,Republic of Finland,Europe,0,0,.046210721
+2016,FRA,French Republic,Europe,0,0,.12083493
+2016,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2016,GIN,Republic of Guinea,Africa,0,0,.11505922
+2016,GNQ,Republic of Equatorial Guinea,Africa,0,0,.093821511
+2016,GRD,Grenada,North America,0,0,.14757282
+2016,GTM,Republic of Guatemala,North America,0,0,.1508069
+2016,GUY,Co-operative Republic of Guyana,South America,0,1,.06287425
+2016,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,0,
+2016,HND,Republic of Honduras,North America,0,0,.13947991
+2016,HRV,Republic of Croatia,Europe,0,0,.15979381
+2016,HUN,Republic of Hungary,Europe,0,0,.1042471
+2016,IDN,Republic of Indonesia,Asia,0,0,.1564521
+2016,IND,Republic of India,Asia,0,1,.1646369
+2016,IRL,Ireland,Europe,0,0,.098566309
+2016,IRN,Islamic Republic of Iran,Asia,0,0,.11554333
+2016,ISL,Republic of Iceland,Europe,0,0,.12234043
+2016,ITA,Italian Republic,Europe,0,0,.15766051
+2016,JAM,Jamaica,North America,0,0,.17619048
+2016,JPN,Japan,Asia,0,0,.16051431
+2016,KHM,Kingdom of Cambodia,Asia,0,0,.13887481
+2016,KIR,Republic of Kiribati,Oceania,1,0,.12781955
+2016,KNA,Federation of Saint Kitts and Nevis,North America,0,0,.13152401
+2016,KOR,Republic of Korea,Asia,0,0,.15796897
+2016,KWT,State of Kuwait,Asia,0,0,.11
+2016,LAO,Lao People's Democratic Republic,Asia,0,0,.12451613
+2016,LBN,Lebanese Republic,Asia,0,0,.16185898
+2016,LBR,Republic of Liberia,Africa,0,0,.11055277
+2016,LKA,Democratic Socialist Republic of Sri Lanka,Asia,0,0,.25349087
+2016,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2016,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2016,LVA,Republic of Latvia,Europe,0,0,.038602941
+2016,MAC,"Macao Special Administrative Region, PRC",Asia,0,0,
+2016,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2016,MDV,Republic of Maldives,Seven seas (open ocean),0,0,.10997442
+2016,MEX,United Mexican States,North America,0,0,.19660249
+2016,MHL,Republic of the Marshall Islands,Oceania,0,0,.11542857
+2016,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2016,MLT,Republic of Malta,Europe,0,0,.15803109
+2016,MMR,Republic of the Union of Myanmar,Asia,0,0,.11657682
+2016,MRT,Islamic Republic of Mauritania,Africa,0,0,.096078433
+2016,MYS,Malaysia,Asia,0,0,.15060827
+2016,NAM,Republic of Namibia,Africa,0,0,.057371095
+2016,NER,Republic of Niger,Africa,0,0,.03520352
+2016,NGA,Federal Republic of Nigeria,Africa,0,0,.090457253
+2016,NLD,Kingdom of the Netherlands,Europe,0,0,.095860563
+2016,NOR,Kingdom of Norway,Europe,0,0,
+2016,PAN,Republic of Panama,North America,0,0,.12397072
+2016,PER,Republic of Peru,South America,0,0,.11850093
+2016,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2016,PLW,Republic of Palau,Oceania,0,0,.096746579
+2016,PNG,Independent State of Papua New Guinea,Oceania,0,0,.11399417
+2016,POL,Republic of Poland,Europe,0,0,.058977719
+2016,PRT,Portuguese Republic,Europe,0,0,.2038065
+2016,PRY,Republic of Paraguay,South America,0,0,.052951388
+2016,QAT,State of Qatar,Asia,0,0,.12774451
+2016,RUS,Russian Federation,Europe,0,0,.1106599
+2016,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2016,SDN,Republic of the Sudan,Africa,0,0,.074202895
+2016,SEN,Republic of Senegal,Africa,0,0,.086232983
+2016,SGP,Republic of Singapore,Asia,0,0,.15840456
+2016,SLE,Republic of Sierra Leone,Africa,0,0,.10028654
+2016,SLV,Republic of El Salvador,North America,0,0,.083986565
+2016,SMR,Republic of San Marino,Europe,0,0,.031319909
+2016,SOM,Federal Republic of Somalia,Africa,0,0,.081124932
+2016,SSD,Republic of South Sudan,Africa,0,0,.032097004
+2016,STP,Democratic Republic of São Tomé and Principe,Africa,0,0,.18674698
+2016,SVN,Republic of Slovenia,Europe,0,0,.11741683
+2016,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2016,TCD,Republic of Chad,Africa,0,0,.03461919
+2016,TGO,Togolese Republic,Africa,0,0,.062682219
+2016,THA,Kingdom of Thailand,Asia,0,0,.12882692
+2016,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2016,TTO,Republic of Trinidad and Tobago,North America,0,0,.098752595
+2016,TUR,Republic of Turkey,Asia,0,0,.21935934
+2016,TUV,Tuvalu,Oceania,1,0,.12658228
+2016,TZA,United Republic of Tanzania,Africa,0,0,.11363
+2016,UKR,Ukraine,Europe,0,0,.091684438
+2016,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2016,USA,United States of America,North America,0,0,.19534719
+2016,VCT,Saint Vincent and the Grenadines,North America,0,0,.14343435
+2016,VNM,Socialist Republic of Vietnam,Asia,0,0,.16824494
+2016,VUT,Republic of Vanuatu,Oceania,0,0,.09794239
+2016,ZAF,Republic of South Africa,Africa,0,0,.14876033
+2016,ZWE,Republic of Zimbabwe,Africa,0,1,.03178484
+2017,ABW,Aruba,North America,0,0,
+2017,AFG,Islamic State of Afghanistan,Asia,0,0,.06936416
+2017,ALB,Republic of Albania,Europe,0,0,.17511111
+2017,ARE,United Arab Emirates,Asia,0,0,.11934157
+2017,ARG,Argentine Republic,South America,0,0,.11197087
+2017,ARM,Republic of Armenia,Asia,0,1,.17604356
+2017,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2017,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2017,BEN,Republic of Benin,Africa,0,0,.067674585
+2017,BGD,People's Republic of Bangladesh,Asia,0,0,.12620027
+2017,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2017,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2017,BIH,Bosnia and Herzegovina,Europe,0,0,.13121273
+2017,BLR,Republic of Belarus,Europe,0,1,.033277869
+2017,BLZ,Belize,North America,0,1,.090656802
+2017,BOL,Plurinational State of Bolivia,South America,0,0,.080414012
+2017,BRA,Federative Republic of Brazil,South America,0,0,.10503381
+2017,BRB,Barbados,North America,0,0,.13765182
+2017,BWA,Republic of Botswana,Africa,0,0,.025447691
+2017,CAN,Canada,North America,0,0,.096868888
+2017,CHN,People's Republic of China,Asia,1,0,.14440434
+2017,COL,Republic of Colombia,South America,0,1,.15118878
+2017,CRI,Republic of Costa Rica,North America,0,0,.11201216
+2017,CYP,Republic of Cyprus,Asia,0,0,.1755424
+2017,CZE,Czech Republic,Europe,0,0,.077793494
+2017,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2017,DMA,Commonwealth of Dominica,North America,0,0,.13904762
+2017,DNK,Kingdom of Denmark,Europe,0,0,.068814054
+2017,DOM,Dominican Republic,North America,0,0,.21895006
+2017,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2017,EGY,Arab Republic of Egypt,Africa,0,0,.11125916
+2017,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2017,ETH,Federal Democratic Republic of Ethiopia,Africa,0,0,.07091172
+2017,FIN,Republic of Finland,Europe,0,0,.046210721
+2017,FJI,Republic of Fiji,Oceania,0,0,.11841038
+2017,FRA,French Republic,Europe,0,0,.12083493
+2017,FSM,Federated States of Micronesia,Oceania,0,0,.13160518
+2017,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2017,GHA,Republic of Ghana,Africa,0,0,.080389768
+2017,GIN,Republic of Guinea,Africa,0,1,.11505922
+2017,GMB,Republic of the Gambia,Africa,0,0,.07932011
+2017,GRC,Hellenic Republic,Europe,0,0,.20015278
+2017,GUY,Co-operative Republic of Guyana,South America,0,0,.06287425
+2017,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,0,
+2017,HRV,Republic of Croatia,Europe,0,0,.15979381
+2017,HUN,Republic of Hungary,Europe,0,0,.1042471
+2017,IDN,Republic of Indonesia,Asia,0,0,.1564521
+2017,IND,Republic of India,Asia,0,0,.1646369
+2017,IRL,Ireland,Europe,0,0,.098566309
+2017,IRQ,Republic of Iraq,Asia,0,0,.099056602
+2017,ISL,Republic of Iceland,Europe,1,0,.12234043
+2017,ISR,State of Israel,Asia,0,0,.13848397
+2017,ITA,Italian Republic,Europe,0,0,.15766051
+2017,JOR,Hashemite Kingdom of Jordan,Asia,0,0,.10996564
+2017,JPN,Japan,Asia,0,0,.16051431
+2017,KHM,Kingdom of Cambodia,Asia,0,0,.13887481
+2017,KIR,Republic of Kiribati,Oceania,0,0,.12781955
+2017,KNA,Federation of Saint Kitts and Nevis,North America,0,0,.13152401
+2017,KOR,Republic of Korea,Asia,0,0,.15796897
+2017,KWT,State of Kuwait,Asia,0,0,.11
+2017,LAO,Lao People's Democratic Republic,Asia,0,0,.12451613
+2017,LCA,Saint Lucia,North America,0,0,.14570858
+2017,LSO,Kingdom of Lesotho,Africa,0,0,.026223777
+2017,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2017,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2017,LVA,Republic of Latvia,Europe,0,0,.038602941
+2017,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2017,MDA,Republic of Moldova,Europe,0,0,.051968504
+2017,MDG,Republic of Madagascar,Africa,0,0,.30938199
+2017,MDV,Republic of Maldives,Seven seas (open ocean),0,1,.10997442
+2017,MEX,United Mexican States,North America,0,0,.19660249
+2017,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2017,MLT,Republic of Malta,Europe,0,0,.15803109
+2017,MMR,Republic of the Union of Myanmar,Asia,0,0,.11657682
+2017,MNE,Montenegro,Europe,0,0,.12576687
+2017,MNG,Mongolia,Asia,0,0,.058380414
+2017,MOZ,Republic of Mozambique,Africa,0,0,.086576939
+2017,MRT,Islamic Republic of Mauritania,Africa,0,0,.096078433
+2017,MUS,Republic of Mauritius,Seven seas (open ocean),0,0,.11740042
+2017,MYS,Malaysia,Asia,0,0,.15060827
+2017,NAM,Republic of Namibia,Africa,0,0,.057371095
+2017,NGA,Federal Republic of Nigeria,Africa,0,0,.090457253
+2017,NIC,Republic of Nicaragua,North America,0,0,.093410112
+2017,NOR,Kingdom of Norway,Europe,0,0,
+2017,NPL,Nepal,Asia,0,0,.097207859
+2017,NRU,Republic of Nauru,Oceania,0,0,
+2017,NZL,New Zealand,Oceania,0,0,.16583748
+2017,PAK,Islamic Republic of Pakistan,Asia,0,0,.13218391
+2017,PAN,Republic of Panama,North America,0,0,.12397072
+2017,PER,Republic of Peru,South America,0,0,.11850093
+2017,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2017,PNG,Independent State of Papua New Guinea,Oceania,0,0,.11399417
+2017,POL,Republic of Poland,Europe,0,0,.058977719
+2017,PRT,Portuguese Republic,Europe,0,0,.2038065
+2017,PRY,Republic of Paraguay,South America,0,0,.052951388
+2017,RUS,Russian Federation,Europe,0,0,.1106599
+2017,RWA,Republic of Rwanda,Africa,0,0,.051738076
+2017,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2017,SDN,Republic of the Sudan,Africa,0,0,.074202895
+2017,SGP,Republic of Singapore,Asia,0,0,.15840456
+2017,SMR,Republic of San Marino,Europe,0,0,.031319909
+2017,SOM,Federal Republic of Somalia,Africa,0,0,.081124932
+2017,SRB,Republic of Serbia,Europe,0,0,
+2017,SVK,Slovak Republic,Europe,0,0,.077235773
+2017,SVN,Republic of Slovenia,Europe,0,0,.11741683
+2017,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2017,SWZ,Kingdom of eSwatini,Africa,0,0,.034368072
+2017,SYC,Republic of Seychelles,Seven seas (open ocean),0,0,.15830874
+2017,THA,Kingdom of Thailand,Asia,0,0,.12882692
+2017,TJK,Republic of Tajikistan,Asia,0,0,.066371679
+2017,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2017,TTO,Republic of Trinidad and Tobago,North America,0,0,.098752595
+2017,TUN,Republic of Tunisia,Africa,0,0,.11699165
+2017,TUR,Republic of Turkey,Asia,0,0,.21935934
+2017,UGA,Republic of Uganda,Africa,0,0,.06860593
+2017,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2017,USA,United States of America,North America,0,0,.19534719
+2017,VCT,Saint Vincent and the Grenadines,North America,0,0,.14343435
+2017,VNM,Socialist Republic of Vietnam,Asia,0,0,.16824494
+2017,WSM,Independent State of Samoa,Oceania,0,0,.10372961
+2017,ZAF,Republic of South Africa,Africa,0,0,.14876033
+2017,ZMB,Republic of Zambia,Africa,0,0,.04230566
+2017,ZWE,Republic of Zimbabwe,Africa,1,0,.03178484
+2018,AGO,People's Republic of Angola,Africa,0,0,.059569076
+2018,ALB,Republic of Albania,Europe,0,0,.17511111
+2018,ARE,United Arab Emirates,Asia,0,0,.11934157
+2018,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2018,AUT,Republic of Austria,Europe,0,0,.12906724
+2018,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2018,BFA,Burkina Faso,Africa,0,0,.030549899
+2018,BGD,People's Republic of Bangladesh,Asia,0,0,.12620027
+2018,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2018,BLR,Republic of Belarus,Europe,0,0,.033277869
+2018,BLZ,Belize,North America,0,0,.090656802
+2018,BOL,Plurinational State of Bolivia,South America,0,0,.080414012
+2018,BRA,Federative Republic of Brazil,South America,0,0,.10503381
+2018,BTN,Kingdom of Bhutan,Asia,0,0,.10493047
+2018,BWA,Republic of Botswana,Africa,0,1,.025447691
+2018,CAF,Central African Republic,Africa,0,0,.026625387
+2018,CAN,Canada,North America,0,0,.096868888
+2018,CHE,Swiss Confederation,Europe,0,0,.069963813
+2018,CHL,Republic of Chile,South America,0,0,.15160643
+2018,CHN,People's Republic of China,Asia,1,0,.14440434
+2018,CIV,Republic of Ivory Coast,Africa,0,0,.088823527
+2018,CMR,Republic of Cameroon,Africa,0,0,.11655948
+2018,COL,Republic of Colombia,South America,0,1,.15118878
+2018,COM,Union of the Comoros,Africa,0,0,.11866235
+2018,CPV,Republic of Cabo Verde,Africa,0,0,.30259365
+2018,CUW,Curaçao,North America,0,0,
+2018,CYP,Republic of Cyprus,Asia,0,0,.1755424
+2018,CZE,Czech Republic,Europe,0,0,.077793494
+2018,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2018,DMA,Commonwealth of Dominica,North America,0,0,.13904762
+2018,DNK,Kingdom of Denmark,Europe,0,0,.068814054
+2018,DOM,Dominican Republic,North America,0,0,.21895006
+2018,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2018,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2018,EST,Republic of Estonia,Europe,0,0,.046242774
+2018,ETH,Federal Democratic Republic of Ethiopia,Africa,0,0,.07091172
+2018,FIN,Republic of Finland,Europe,0,0,.046210721
+2018,FJI,Republic of Fiji,Oceania,0,0,.11841038
+2018,FRA,French Republic,Europe,0,0,.12083493
+2018,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2018,GEO,Georgia,Asia,0,1,.15350877
+2018,GRC,Hellenic Republic,Europe,0,0,.20015278
+2018,GRD,Grenada,North America,0,0,.14757282
+2018,GTM,Republic of Guatemala,North America,0,0,.1508069
+2018,GUY,Co-operative Republic of Guyana,South America,0,0,.06287425
+2018,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,0,
+2018,HND,Republic of Honduras,North America,0,0,.13947991
+2018,HRV,Republic of Croatia,Europe,0,0,.15979381
+2018,HUN,Republic of Hungary,Europe,0,0,.1042471
+2018,IND,Republic of India,Asia,0,0,.1646369
+2018,IRL,Ireland,Europe,0,0,.098566309
+2018,IRN,Islamic Republic of Iran,Asia,0,1,.11554333
+2018,ISL,Republic of Iceland,Europe,1,1,.12234043
+2018,ISR,State of Israel,Asia,0,0,.13848397
+2018,ITA,Italian Republic,Europe,0,0,.15766051
+2018,JAM,Jamaica,North America,1,0,.17619048
+2018,KAZ,Republic of Kazakhstan,Asia,0,0,.072142065
+2018,KEN,Republic of Kenya,Africa,0,0,.088686131
+2018,KHM,Kingdom of Cambodia,Asia,0,0,.13887481
+2018,KIR,Republic of Kiribati,Oceania,0,1,.12781955
+2018,KNA,Federation of Saint Kitts and Nevis,North America,0,0,.13152401
+2018,LBR,Republic of Liberia,Africa,0,1,.11055277
+2018,LCA,Saint Lucia,North America,0,0,.14570858
+2018,LKA,Democratic Socialist Republic of Sri Lanka,Asia,0,0,.25349087
+2018,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2018,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2018,LVA,Republic of Latvia,Europe,0,0,.038602941
+2018,MEX,United Mexican States,North America,0,0,.19660249
+2018,MHL,Republic of the Marshall Islands,Oceania,1,0,.11542857
+2018,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2018,MLI,Republic of Mali,Africa,0,0,.032667875
+2018,MMR,Republic of the Union of Myanmar,Asia,0,0,.11657682
+2018,MNE,Montenegro,Europe,0,0,.12576687
+2018,MWI,Republic of Malawi,Africa,0,0,.049083769
+2018,MYS,Malaysia,Asia,0,0,.15060827
+2018,NGA,Federal Republic of Nigeria,Africa,0,0,.090457253
+2018,NLD,Kingdom of the Netherlands,Europe,0,0,.095860563
+2018,NOR,Kingdom of Norway,Europe,0,0,
+2018,NPL,Nepal,Asia,0,0,.097207859
+2018,NZL,New Zealand,Oceania,0,0,.16583748
+2018,PAN,Republic of Panama,North America,0,0,.12397072
+2018,PER,Republic of Peru,South America,0,0,.11850093
+2018,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2018,PLW,Republic of Palau,Oceania,0,0,.096746579
+2018,PNG,Independent State of Papua New Guinea,Oceania,1,0,.11399417
+2018,POL,Republic of Poland,Europe,0,0,.058977719
+2018,PRT,Portuguese Republic,Europe,0,0,.2038065
+2018,QAT,State of Qatar,Asia,0,0,.12774451
+2018,RUS,Russian Federation,Europe,0,0,.1106599
+2018,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2018,SEN,Republic of Senegal,Africa,0,0,.086232983
+2018,SGP,Republic of Singapore,Asia,0,0,.15840456
+2018,SLV,Republic of El Salvador,North America,0,0,.083986565
+2018,SMR,Republic of San Marino,Europe,0,0,.031319909
+2018,STP,Democratic Republic of São Tomé and Principe,Africa,0,1,.18674698
+2018,SUR,Republic of Suriname,South America,0,0,.045640327
+2018,SVK,Slovak Republic,Europe,0,0,.077235773
+2018,SVN,Republic of Slovenia,Europe,0,0,.11741683
+2018,THA,Kingdom of Thailand,Asia,0,0,.12882692
+2018,TTO,Republic of Trinidad and Tobago,North America,0,0,.098752595
+2018,TUR,Republic of Turkey,Asia,0,0,.21935934
+2018,TUV,Tuvalu,Oceania,0,0,.12658228
+2018,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2018,USA,United States of America,North America,0,0,.19534719
+2018,UZB,Republic of Uzbekistan,Asia,0,0,.073684208
+2018,VCT,Saint Vincent and the Grenadines,North America,0,0,.14343435
+2018,VNM,Socialist Republic of Vietnam,Asia,0,0,.16824494
+2018,VUT,Republic of Vanuatu,Oceania,0,0,.09794239
+2018,WSM,Independent State of Samoa,Oceania,0,1,.10372961
+2018,ZAF,Republic of South Africa,Africa,0,0,.14876033
+2019,ABW,Aruba,North America,0,0,
+2019,AFG,Islamic State of Afghanistan,Asia,0,0,.06936416
+2019,ARM,Republic of Armenia,Asia,0,0,.17604356
+2019,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2019,AZE,Republic of Azerbaijan,Asia,0,0,.14285715
+2019,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2019,BEN,Republic of Benin,Africa,0,0,.067674585
+2019,BGD,People's Republic of Bangladesh,Asia,0,0,.12620027
+2019,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2019,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2019,BLZ,Belize,North America,0,0,.090656802
+2019,BRA,Federative Republic of Brazil,South America,0,0,.10503381
+2019,BRB,Barbados,North America,0,0,.13765182
+2019,BRN,Negara Brunei Darussalam,Asia,0,0,.14579524
+2019,BWA,Republic of Botswana,Africa,1,0,.025447691
+2019,CAN,Canada,North America,0,0,.096868888
+2019,CHE,Swiss Confederation,Europe,0,0,.069963813
+2019,CHN,People's Republic of China,Asia,0,0,.14440434
+2019,COG,Republic of the Congo,Africa,0,1,.070289135
+2019,COL,Republic of Colombia,South America,0,0,.15118878
+2019,COM,Union of the Comoros,Africa,0,0,.11866235
+2019,CPV,Republic of Cabo Verde,Africa,0,0,.30259365
+2019,CRI,Republic of Costa Rica,North America,0,0,.11201216
+2019,CYP,Republic of Cyprus,Asia,0,0,.1755424
+2019,CZE,Czech Republic,Europe,0,0,.077793494
+2019,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2019,DJI,Republic of Djibouti,Africa,0,0,.096265562
+2019,DNK,Kingdom of Denmark,Europe,0,0,.068814054
+2019,DOM,Dominican Republic,North America,0,0,.21895006
+2019,ECU,Republic of Ecuador,South America,0,0,.17483811
+2019,EST,Republic of Estonia,Europe,0,0,.046242774
+2019,ETH,Federal Democratic Republic of Ethiopia,Africa,0,1,.07091172
+2019,FIN,Republic of Finland,Europe,0,1,.046210721
+2019,FJI,Republic of Fiji,Oceania,0,1,.11841038
+2019,FRA,French Republic,Europe,0,0,.12083493
+2019,FSM,Federated States of Micronesia,Oceania,1,0,.13160518
+2019,GAB,Gabonese Republic,Africa,0,1,.077473186
+2019,GHA,Republic of Ghana,Africa,0,0,.080389768
+2019,GRC,Hellenic Republic,Europe,0,0,.20015278
+2019,GRD,Grenada,North America,0,0,.14757282
+2019,GTM,Republic of Guatemala,North America,0,0,.1508069
+2019,GUY,Co-operative Republic of Guyana,South America,0,0,.06287425
+2019,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,0,
+2019,HND,Republic of Honduras,North America,0,0,.13947991
+2019,HRV,Republic of Croatia,Europe,0,0,.15979381
+2019,HTI,Republic of Haiti,North America,1,0,.2718327
+2019,HUN,Republic of Hungary,Europe,0,0,.1042471
+2019,IDN,Republic of Indonesia,Asia,0,0,.1564521
+2019,IND,Republic of India,Asia,1,0,.1646369
+2019,IRL,Ireland,Europe,0,0,.098566309
+2019,IRQ,Republic of Iraq,Asia,0,0,.099056602
+2019,ISL,Republic of Iceland,Europe,0,0,.12234043
+2019,JPN,Japan,Asia,0,0,.16051431
+2019,KAZ,Republic of Kazakhstan,Asia,0,0,.072142065
+2019,KGZ,Kyrgyz Republic,Asia,0,0,.073496662
+2019,KHM,Kingdom of Cambodia,Asia,0,0,.13887481
+2019,KOR,Republic of Korea,Asia,0,0,.15796897
+2019,KWT,State of Kuwait,Asia,0,0,.11
+2019,LAO,Lao People's Democratic Republic,Asia,0,0,.12451613
+2019,LBN,Lebanese Republic,Asia,0,0,.16185898
+2019,LBR,Republic of Liberia,Africa,0,0,.11055277
+2019,LCA,Saint Lucia,North America,0,1,.14570858
+2019,LSO,Kingdom of Lesotho,Africa,0,0,.026223777
+2019,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2019,LUX,Grand Duchy of Luxembourg,Europe,0,1,.030797102
+2019,LVA,Republic of Latvia,Europe,0,0,.038602941
+2019,MAC,"Macao Special Administrative Region, PRC",Asia,0,0,
+2019,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2019,MDG,Republic of Madagascar,Africa,1,1,.30938199
+2019,MDV,Republic of Maldives,Seven seas (open ocean),0,0,.10997442
+2019,MEX,United Mexican States,North America,0,0,.19660249
+2019,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2019,MLT,Republic of Malta,Europe,0,0,.15803109
+2019,MMR,Republic of the Union of Myanmar,Asia,0,0,.11657682
+2019,MNE,Montenegro,Europe,0,0,.12576687
+2019,MNG,Mongolia,Asia,1,1,.058380414
+2019,MOZ,Republic of Mozambique,Africa,0,0,.086576939
+2019,MUS,Republic of Mauritius,Seven seas (open ocean),0,0,.11740042
+2019,MYS,Malaysia,Asia,0,0,.15060827
+2019,NAM,Republic of Namibia,Africa,0,0,.057371095
+2019,NER,Republic of Niger,Africa,0,0,.03520352
+2019,NGA,Federal Republic of Nigeria,Africa,0,0,.090457253
+2019,NIC,Republic of Nicaragua,North America,0,0,.093410112
+2019,NLD,Kingdom of the Netherlands,Europe,0,0,.095860563
+2019,NOR,Kingdom of Norway,Europe,0,0,
+2019,NPL,Nepal,Asia,0,0,.097207859
+2019,NRU,Republic of Nauru,Oceania,1,0,
+2019,NZL,New Zealand,Oceania,0,0,.16583748
+2019,PER,Republic of Peru,South America,0,0,.11850093
+2019,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2019,PNG,Independent State of Papua New Guinea,Oceania,0,0,.11399417
+2019,PRT,Portuguese Republic,Europe,0,0,.2038065
+2019,PRY,Republic of Paraguay,South America,0,0,.052951388
+2019,QAT,State of Qatar,Asia,0,0,.12774451
+2019,RUS,Russian Federation,Europe,0,0,.1106599
+2019,RWA,Republic of Rwanda,Africa,0,0,.051738076
+2019,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2019,SDN,Republic of the Sudan,Africa,0,0,.074202895
+2019,SGP,Republic of Singapore,Asia,0,0,.15840456
+2019,SLE,Republic of Sierra Leone,Africa,0,0,.10028654
+2019,SLV,Republic of El Salvador,North America,0,0,.083986565
+2019,SMR,Republic of San Marino,Europe,0,0,.031319909
+2019,SOM,Federal Republic of Somalia,Africa,0,0,.081124932
+2019,SRB,Republic of Serbia,Europe,0,0,
+2019,SSD,Republic of South Sudan,Africa,0,0,.032097004
+2019,SUR,Republic of Suriname,South America,0,0,.045640327
+2019,SVK,Slovak Republic,Europe,0,0,.077235773
+2019,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2019,SWZ,Kingdom of eSwatini,Africa,0,0,.034368072
+2019,SYC,Republic of Seychelles,Seven seas (open ocean),0,1,.15830874
+2019,TCD,Republic of Chad,Africa,0,0,.03461919
+2019,TGO,Togolese Republic,Africa,0,0,.062682219
+2019,THA,Kingdom of Thailand,Asia,0,0,.12882692
+2019,TJK,Republic of Tajikistan,Asia,0,0,.066371679
+2019,TUR,Republic of Turkey,Asia,0,0,.21935934
+2019,UGA,Republic of Uganda,Africa,0,0,.06860593
+2019,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2019,USA,United States of America,North America,0,0,.19534719
+2019,UZB,Republic of Uzbekistan,Asia,0,0,.073684208
+2019,VNM,Socialist Republic of Vietnam,Asia,0,0,.16824494
+2019,VUT,Republic of Vanuatu,Oceania,0,0,.09794239
+2019,WSM,Independent State of Samoa,Oceania,0,0,.10372961
+2019,ZAF,Republic of South Africa,Africa,0,0,.14876033
+2019,ZMB,Republic of Zambia,Africa,0,0,.04230566
+2019,ZWE,Republic of Zimbabwe,Africa,0,0,.03178484
+2020,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2020,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2020,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2020,BIH,Bosnia and Herzegovina,Europe,0,0,.13121273
+2020,BRA,Federative Republic of Brazil,South America,0,0,.10503381
+2020,CHN,People's Republic of China,Asia,0,1,.14440434
+2020,COL,Republic of Colombia,South America,0,0,.15118878
+2020,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2020,ESP,Kingdom of Spain,Europe,0,1,.24947698
+2020,FRA,French Republic,Europe,0,0,.12083493
+2020,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,1,.1348563
+2020,IDN,Republic of Indonesia,Asia,0,1,.1564521
+2020,IRQ,Republic of Iraq,Asia,0,0,.099056602
+2020,ISR,State of Israel,Asia,0,0,.13848397
+2020,ITA,Italian Republic,Europe,0,0,.15766051
+2020,JOR,Hashemite Kingdom of Jordan,Asia,0,0,.10996564
+2020,KWT,State of Kuwait,Asia,0,0,.11
+2020,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2020,MEX,United Mexican States,North America,0,0,.19660249
+2020,MLT,Republic of Malta,Europe,0,0,.15803109
+2020,MYS,Malaysia,Asia,0,0,.15060827
+2020,NER,Republic of Niger,Africa,0,0,.03520352
+2020,PAN,Republic of Panama,North America,1,1,.12397072
+2020,POL,Republic of Poland,Europe,0,0,.058977719
+2020,PRY,Republic of Paraguay,South America,0,0,.052951388
+2020,RUS,Russian Federation,Europe,0,0,.1106599
+2020,SMR,Republic of San Marino,Europe,0,0,.031319909
+2020,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2020,USA,United States of America,North America,0,1,.19534719
+2020,VNM,Socialist Republic of Vietnam,Asia,0,0,.16824494
+2021,ABW,Aruba,North America,0,0,
+2021,AGO,People's Republic of Angola,Africa,0,0,.059569076
+2021,ALB,Republic of Albania,Europe,0,0,.17511111
+2021,ARE,United Arab Emirates,Asia,0,1,.11934157
+2021,ARM,Republic of Armenia,Asia,1,0,.17604356
+2021,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2021,AUT,Republic of Austria,Europe,0,1,.12906724
+2021,AZE,Republic of Azerbaijan,Asia,0,0,.14285715
+2021,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2021,BGD,People's Republic of Bangladesh,Asia,0,0,.12620027
+2021,BLZ,Belize,North America,1,0,.090656802
+2021,BOL,Plurinational State of Bolivia,South America,0,0,.080414012
+2021,BRA,Federative Republic of Brazil,South America,0,1,.10503381
+2021,BRB,Barbados,North America,1,0,.13765182
+2021,BRN,Negara Brunei Darussalam,Asia,0,1,.14579524
+2021,BWA,Republic of Botswana,Africa,0,0,.025447691
+2021,CAN,Canada,North America,0,0,.096868888
+2021,CHE,Swiss Confederation,Europe,0,0,.069963813
+2021,CHL,Republic of Chile,South America,0,0,.15160643
+2021,CHN,People's Republic of China,Asia,0,0,.14440434
+2021,CIV,Republic of Ivory Coast,Africa,0,1,.088823527
+2021,CMR,Republic of Cameroon,Africa,0,1,.11655948
+2021,COG,Republic of the Congo,Africa,0,0,.070289135
+2021,COL,Republic of Colombia,South America,0,0,.15118878
+2021,CRI,Republic of Costa Rica,North America,1,1,.11201216
+2021,CUW,Curaçao,North America,0,0,
+2021,CYP,Republic of Cyprus,Asia,0,0,.1755424
+2021,CZE,Czech Republic,Europe,0,0,.077793494
+2021,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2021,DMA,Commonwealth of Dominica,North America,0,0,.13904762
+2021,DNK,Kingdom of Denmark,Europe,0,0,.068814054
+2021,DOM,Dominican Republic,North America,0,1,.21895006
+2021,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2021,ECU,Republic of Ecuador,South America,0,1,.17483811
+2021,EGY,Arab Republic of Egypt,Africa,0,0,.11125916
+2021,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2021,EST,Republic of Estonia,Europe,0,0,.046242774
+2021,FIN,Republic of Finland,Europe,0,1,.046210721
+2021,FJI,Republic of Fiji,Oceania,1,1,.11841038
+2021,FRA,French Republic,Europe,0,1,.12083493
+2021,FSM,Federated States of Micronesia,Oceania,1,0,.13160518
+2021,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,0,0,.1348563
+2021,GEO,Georgia,Asia,0,0,.15350877
+2021,GHA,Republic of Ghana,Africa,1,0,.080389768
+2021,GIN,Republic of Guinea,Africa,0,0,.11505922
+2021,GMB,Republic of the Gambia,Africa,0,1,.07932011
+2021,GRC,Hellenic Republic,Europe,1,0,.20015278
+2021,GTM,Republic of Guatemala,North America,0,1,.1508069
+2021,HRV,Republic of Croatia,Europe,0,1,.15979381
+2021,HUN,Republic of Hungary,Europe,0,0,.1042471
+2021,IND,Republic of India,Asia,0,0,.1646369
+2021,IRL,Ireland,Europe,0,0,.098566309
+2021,ISL,Republic of Iceland,Europe,0,1,.12234043
+2021,ITA,Italian Republic,Europe,0,1,.15766051
+2021,JAM,Jamaica,North America,0,0,.17619048
+2021,KAZ,Republic of Kazakhstan,Asia,0,0,.072142065
+2021,KEN,Republic of Kenya,Africa,1,0,.088686131
+2021,KGZ,Kyrgyz Republic,Asia,0,0,.073496662
+2021,KHM,Kingdom of Cambodia,Asia,1,1,.13887481
+2021,KNA,Federation of Saint Kitts and Nevis,North America,0,0,.13152401
+2021,KOR,Republic of Korea,Asia,0,1,.15796897
+2021,KWT,State of Kuwait,Asia,0,0,.11
+2021,LKA,Democratic Socialist Republic of Sri Lanka,Asia,0,0,.25349087
+2021,LTU,Republic of Lithuania,Europe,0,0,.037974682
+2021,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2021,LVA,Republic of Latvia,Europe,0,0,.038602941
+2021,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2021,MDA,Republic of Moldova,Europe,0,0,.051968504
+2021,MEX,United Mexican States,North America,0,0,.19660249
+2021,MHL,Republic of the Marshall Islands,Oceania,0,0,.11542857
+2021,MKD,Former Yugoslav Republic of Macedonia,Europe,0,0,.12235294
+2021,MLT,Republic of Malta,Europe,0,0,.15803109
+2021,MNE,Montenegro,Europe,0,0,.12576687
+2021,MNG,Mongolia,Asia,0,0,.058380414
+2021,MUS,Republic of Mauritius,Seven seas (open ocean),0,1,.11740042
+2021,MWI,Republic of Malawi,Africa,1,1,.049083769
+2021,MYS,Malaysia,Asia,0,0,.15060827
+2021,NER,Republic of Niger,Africa,0,0,.03520352
+2021,NLD,Kingdom of the Netherlands,Europe,0,0,.095860563
+2021,NOR,Kingdom of Norway,Europe,0,1,
+2021,NRU,Republic of Nauru,Oceania,0,0,
+2021,NZL,New Zealand,Oceania,0,0,.16583748
+2021,OMN,Sultanate of Oman,Asia,0,0,.10884354
+2021,PAK,Islamic Republic of Pakistan,Asia,0,1,.13218391
+2021,PAN,Republic of Panama,North America,1,0,.12397072
+2021,PER,Republic of Peru,South America,0,0,.11850093
+2021,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2021,PLW,Republic of Palau,Oceania,1,1,.096746579
+2021,POL,Republic of Poland,Europe,0,0,.058977719
+2021,RWA,Republic of Rwanda,Africa,1,0,.051738076
+2021,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2021,SEN,Republic of Senegal,Africa,0,1,.086232983
+2021,SGP,Republic of Singapore,Asia,0,0,.15840456
+2021,SLV,Republic of El Salvador,North America,0,0,.083986565
+2021,SMR,Republic of San Marino,Europe,0,0,.031319909
+2021,SRB,Republic of Serbia,Europe,0,0,
+2021,SVK,Slovak Republic,Europe,0,0,.077235773
+2021,SVN,Republic of Slovenia,Europe,0,0,.11741683
+2021,SWE,Kingdom of Sweden,Europe,0,0,.06501548
+2021,THA,Kingdom of Thailand,Asia,0,0,.12882692
+2021,TJK,Republic of Tajikistan,Asia,1,0,.066371679
+2021,TTO,Republic of Trinidad and Tobago,North America,0,1,.098752595
+2021,TUN,Republic of Tunisia,Africa,0,0,.11699165
+2021,TUR,Republic of Turkey,Asia,0,0,.21935934
+2021,TUV,Tuvalu,Oceania,0,0,.12658228
+2021,UGA,Republic of Uganda,Africa,0,1,.06860593
+2021,URY,Oriental Republic of Uruguay,South America,0,0,.12437186
+2021,USA,United States of America,North America,0,1,.19534719
+2021,UZB,Republic of Uzbekistan,Asia,0,0,.073684208
+2021,VUT,Republic of Vanuatu,Oceania,0,1,.09794239
+2021,WSM,Independent State of Samoa,Oceania,0,0,.10372961
+2021,ZAF,Republic of South Africa,Africa,0,0,.14876033
+2022,AGO,People's Republic of Angola,Africa,0,1,.059569076
+2022,ALB,Republic of Albania,Europe,0,0,.17511111
+2022,ARG,Argentine Republic,South America,0,0,.11197087
+2022,AUS,Commonwealth of Australia,Oceania,0,0,.19078541
+2022,AUT,Republic of Austria,Europe,0,0,.12906724
+2022,BDI,Republic of Burundi,Africa,0,0,.04209749
+2022,BEL,Kingdom of Belgium,Europe,0,0,.045833334
+2022,BEN,Republic of Benin,Africa,0,1,.067674585
+2022,BGR,Republic of Bulgaria,Europe,0,0,.084745765
+2022,BHS,Commonwealth of the Bahamas,North America,0,0,.14218751
+2022,BIH,Bosnia and Herzegovina,Europe,0,0,.13121273
+2022,BLZ,Belize,North America,1,1,.090656802
+2022,BOL,Plurinational State of Bolivia,South America,1,1,.080414012
+2022,BRN,Negara Brunei Darussalam,Asia,0,0,.14579524
+2022,BTN,Kingdom of Bhutan,Asia,1,1,.10493047
+2022,BWA,Republic of Botswana,Africa,0,1,.025447691
+2022,CAN,Canada,North America,0,0,.096868888
+2022,CHE,Swiss Confederation,Europe,0,0,.069963813
+2022,CHL,Republic of Chile,South America,0,1,.15160643
+2022,CHN,People's Republic of China,Asia,0,1,.14440434
+2022,CIV,Republic of Ivory Coast,Africa,0,1,.088823527
+2022,COL,Republic of Colombia,South America,0,1,.15118878
+2022,CUW,Curaçao,North America,1,0,
+2022,CYP,Republic of Cyprus,Asia,0,0,.1755424
+2022,CZE,Czech Republic,Europe,0,1,.077793494
+2022,DEU,Federal Republic of Germany,Europe,0,0,.12081219
+2022,DNK,Kingdom of Denmark,Europe,0,0,.068814054
+2022,DOM,Dominican Republic,North America,0,0,.21895006
+2022,DZA,People's Democratic Republic of Algeria,Africa,0,0,.12753278
+2022,ESP,Kingdom of Spain,Europe,0,0,.24947698
+2022,EST,Republic of Estonia,Europe,0,0,.046242774
+2022,FIN,Republic of Finland,Europe,1,0,.046210721
+2022,FRA,French Republic,Europe,0,0,.12083493
+2022,GIN,Republic of Guinea,Africa,0,0,.11505922
+2022,GNB,Republic of Guinea-Bissau,Africa,1,0,.089483395
+2022,GNQ,Republic of Equatorial Guinea,Africa,0,1,.093821511
+2022,GRC,Hellenic Republic,Europe,1,1,.20015278
+2022,GRD,Grenada,North America,0,1,.14757282
+2022,GTM,Republic of Guatemala,North America,0,1,.1508069
+2022,GUY,Co-operative Republic of Guyana,South America,0,1,.06287425
+2022,HKG,"Hong Kong Special Administrative Region, PRC",Asia,0,1,
+2022,HUN,Republic of Hungary,Europe,0,0,.1042471
+2022,IDN,Republic of Indonesia,Asia,1,0,.1564521
+2022,IND,Republic of India,Asia,0,0,.1646369
+2022,IRL,Ireland,Europe,0,0,.098566309
+2022,IRQ,Republic of Iraq,Asia,1,0,.099056602
+2022,ISL,Republic of Iceland,Europe,0,0,.12234043
+2022,ISR,State of Israel,Asia,1,0,.13848397
+2022,ITA,Italian Republic,Europe,0,1,.15766051
+2022,JAM,Jamaica,North America,0,0,.17619048
+2022,JOR,Hashemite Kingdom of Jordan,Asia,0,1,.10996564
+2022,JPN,Japan,Asia,0,0,.16051431
+2022,KAZ,Republic of Kazakhstan,Asia,0,0,.072142065
+2022,KGZ,Kyrgyz Republic,Asia,0,0,.073496662
+2022,KHM,Kingdom of Cambodia,Asia,1,1,.13887481
+2022,KOR,Republic of Korea,Asia,0,0,.15796897
+2022,LBR,Republic of Liberia,Africa,0,0,.11055277
+2022,LCA,Saint Lucia,North America,0,0,.14570858
+2022,LSO,Kingdom of Lesotho,Africa,0,0,.026223777
+2022,LTU,Republic of Lithuania,Europe,1,0,.037974682
+2022,LUX,Grand Duchy of Luxembourg,Europe,0,0,.030797102
+2022,LVA,Republic of Latvia,Europe,0,0,.038602941
+2022,MAC,"Macao Special Administrative Region, PRC",Asia,0,1,
+2022,MAR,Kingdom of Morocco,Africa,0,0,.16051844
+2022,MDG,Republic of Madagascar,Africa,1,1,.30938199
+2022,MEX,United Mexican States,North America,0,0,.19660249
+2022,MLT,Republic of Malta,Europe,0,0,.15803109
+2022,MRT,Islamic Republic of Mauritania,Africa,0,0,.096078433
+2022,MUS,Republic of Mauritius,Seven seas (open ocean),0,0,.11740042
+2022,MYS,Malaysia,Asia,0,0,.15060827
+2022,NAM,Republic of Namibia,Africa,0,0,.057371095
+2022,NER,Republic of Niger,Africa,0,1,.03520352
+2022,NGA,Federal Republic of Nigeria,Africa,0,0,.090457253
+2022,NIC,Republic of Nicaragua,North America,1,0,.093410112
+2022,NLD,Kingdom of the Netherlands,Europe,0,0,.095860563
+2022,NOR,Kingdom of Norway,Europe,0,1,
+2022,NZL,New Zealand,Oceania,0,0,.16583748
+2022,OMN,Sultanate of Oman,Asia,0,0,.10884354
+2022,PAN,Republic of Panama,North America,0,1,.12397072
+2022,PER,Republic of Peru,South America,1,1,.11850093
+2022,PHL,Republic of the Philippines,Asia,0,0,.17883565
+2022,PNG,Independent State of Papua New Guinea,Oceania,1,1,.11399417
+2022,PRT,Portuguese Republic,Europe,0,1,.2038065
+2022,PRY,Republic of Paraguay,South America,1,0,.052951388
+2022,QAT,State of Qatar,Asia,1,1,.12774451
+2022,SAU,Kingdom of Saudi Arabia,Asia,0,0,.10722264
+2022,SGP,Republic of Singapore,Asia,0,1,.15840456
+2022,SLE,Republic of Sierra Leone,Africa,1,1,.10028654
+2022,SMR,Republic of San Marino,Europe,0,0,.031319909
+2022,SOM,Federal Republic of Somalia,Africa,0,0,.081124932
+2022,SSD,Republic of South Sudan,Africa,1,0,.032097004
+2022,STP,Democratic Republic of São Tomé and Principe,Africa,1,0,.18674698
+2022,SVK,Slovak Republic,Europe,0,0,.077235773
+2022,SVN,Republic of Slovenia,Europe,0,0,.11741683
+2022,SYC,Republic of Seychelles,Seven seas (open ocean),0,1,.15830874
+2022,THA,Kingdom of Thailand,Asia,0,0,.12882692
+2022,TJK,Republic of Tajikistan,Asia,0,0,.066371679
+2022,TON,Kingdom of Tonga,Oceania,0,0,.083333336
+2022,USA,United States of America,North America,0,0,.19534719
+2022,UZB,Republic of Uzbekistan,Asia,0,0,.073684208
+2022,VCT,Saint Vincent and the Grenadines,North America,0,0,.14343435
+2022,VNM,Socialist Republic of Vietnam,Asia,0,1,.16824494
+2022,ZWE,Republic of Zimbabwe,Africa,0,0,.03178484
