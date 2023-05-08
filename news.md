@@ -16,7 +16,7 @@ permalink: /news/
 	.mobile {
     		display: none;
   	}
-	@media only screen and (max-width: 1000px) {
+	@media only screen and (max-width: 800px) {
 		.mobile {
 			display: block;
 		}
