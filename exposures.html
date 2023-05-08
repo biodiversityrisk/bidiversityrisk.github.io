@@ -3,7 +3,7 @@ layout: page
 title: Biodiversity Risk Exposure
 permalink: /exposures/
 ---
-<h1> Industry Level </h1>
+
 <!-- Styles for desktop and mobile devices -->
 <style>
 	.desktop {
@@ -24,22 +24,7 @@ permalink: /exposures/
 	}
 </style>
 
-<div class="desktop">
- {% include industry_ranking.html %}
- <h5> Double click on the legend to select industry, single click to add industries for comparison </h5>
-<br>
-<br>
- {% include 246industry.html %}
-</div>
 
-<!-- Content for mobile devices -->
-<div class="mobile">
-	<h5>For the best experience with our interactive figures, we recommend accessing our website using a desktop computer.</h5>
-	<img src="/image/industry_ranking.png" alt="">
- <br>
-<br>
- <img src="/image/246industry.png" alt="">
-</div>
 
 <div class="desktop">
 <h1> County Level </h1>
@@ -53,3 +38,21 @@ permalink: /exposures/
 <br>
 </div>
 
+<div class="desktop">
+<h1> Industry Level </h1>
+ {% include industry_ranking.html %}
+ <h5> Double click on the legend to select industry, single click to add industries for comparison </h5>
+<br>
+<br>
+ {% include 246industry.html %}
+</div>
+
+<!-- Content for mobile devices -->
+<h1> Industry Level </h1>
+<div class="mobile">
+	<h5>For the best experience with our interactive figures, we recommend accessing our website using a desktop computer.</h5>
+	<img src="/image/industry_ranking.png" alt="">
+ <br>
+<br>
+ <img src="/image/246industry.png" alt="">
+</div>
