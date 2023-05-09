@@ -1,9 +1,9 @@
-
 ---
 layout: page
 title: Spatial Exposures
-permalink: /spatial_exposure/
+permalink: /spatial/
 ---
+
 
 <!-- Styles for desktop and mobile devices -->
 <style>
