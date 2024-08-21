@@ -20,7 +20,7 @@ We explore the effects of physical and regulatory risks related to biodiversity 
  </tr>
  <tr>
     <td><center> <h2><a href="https://pages.stern.nyu.edu/~jstroebe/" target="_blank">Johannes Stroebel</a></h2><p>NYU Stern, NBER, and CEPR</p></center></td>
-    <td> <center> <h2>Xuran Zeng</h2><p>NYU Stern</p></center></td>
+    <td><center> <h2><a href="https://www.linkedin.com/in/xuran-zeng-20b01a296/" target="_blank">Xuran Zeng</a></h2><p>NYU Stern</p></center>
  </tr>
 </table>
  </center>
